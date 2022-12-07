@@ -1,0 +1,2610 @@
+IL-1β positive {'MMP-3': 3, 'MMP-13': 3, 'LOX-1': 1, 'iNOS': 6, 'IL-1β': 4, 'IL-6': 1}
+IL-1β negative {'SLC26A3': 1}
+TNF-α positive {'MMP-3': 2, 'MMP-13': 3, 'MCP-1': 4, 'LOX-1': 1, 'iNOS': 5, 'IL-10': 1, 'RANK-L': 1, 'MUC5AC': 1}
+TNF-α negative {}
+IL-17 positive {'MMP-3': 3, 'MMP-13': 5, 'MCPIP1': 1}
+IL-17 negative {}
+Sp1 positive {'MCP-1': 1}
+Sp1 negative {}
+ERK2 positive {'Sp1': 1}
+ERK2 negative {}
+CpxA positive {'CpxR': 1, 'ArcA': 2, 'CpxA': 1, 'mzrA': 1}
+CpxA negative {}
+KinA positive {'Spo0A': 1, 'Spo0F': 1}
+KinA negative {}
+VanS positive {'VanR': 1}
+VanS negative {}
+CheA positive {'CheY': 2, 'CheB': 2}
+CheA negative {}
+TSC positive {'p27': 1}
+TSC negative {}
+mTOR positive {'p27': 1}
+mTOR negative {}
+p27 positive {'p27': 2}
+p27 negative {}
+ER positive {'p27': 2}
+ER negative {}
+estrogen receptor positive {'p27': 1}
+estrogen receptor negative {}
+Akt positive {'TSC2': 1, 'Faim2': 1}
+Akt negative {'TSC2': 1, 'mTOR': 1}
+CbnKR positive {'gusA': 1}
+CbnKR negative {}
+PhoQ positive {'PmrA': 1, 'PhoP': 2, 'msbB1': 1, 'IraM': 1, 'oprH': 1, 'OprH': 1, 'ugd': 1}
+PhoQ negative {}
+PmrB positive {'PmrA': 2, 'pbgP': 2, 'pmrC': 1}
+PmrB negative {}
+PhoP positive {'slyA': 1, 'pmrD': 7, 'pmr': 1, 'ppk': 1, 'arn': 1, 'phoQ': 2, 'orgBare': 1, 'lpxT': 15, 'PmrA': 4, 'yeiR': 1, 'pmrR': 2, 'pbgP': 1, 'pmrC': 1, 'ugd': 2, 'PmrB': 1, 'ybjG': 1, 'PmrD': 1, 'folA': 1, 'atrA': 2, 'msbB1': 1, 'oprH': 1, 'OprH': 1, 'RpoZ': 1, 'rpoZ': 1, 'PhoU': 1, 'phoU': 1}
+PhoP negative {'pmrD': 1, 'lpxT': 1, 'pitH2': 1, 'PhoP': 1, 'afsS': 2, 'RamA': 3, 'clpS': 1}
+pmrB positive {}
+pmrB negative {'PmrA': 1}
+lsr2 positive {}
+lsr2 negative {'iniBAC': 2, 'efpA': 3, 'PiniBAC': 1, 'inhA': 1, 'kasA': 1}
+RPL12B positive {}
+RPL12B negative {'EcL11': 1}
+Abl positive {'Crk': 2, 'CrkII': 2}
+Abl negative {'CrkII': 1}
+ExoT positive {}
+ExoT negative {'Crk': 1, 'CrkII': 1}
+ExoS positive {'Rac1': 1}
+ExoS negative {}
+KbpA positive {}
+KbpA negative {'AfsK': 1}
+spa positive {}
+spa negative {'spa': 1}
+KorA positive {}
+KorA negative {'SLP1': 1}
+ImpA positive {}
+ImpA negative {'ImpA': 1}
+scbR positive {'SCB1': 1}
+scbR negative {'SCB1': 1}
+ScbR positive {'ScbR': 2, 'scbA': 2, 'kasO': 2}
+ScbR negative {'cpk': 1, 'scbA': 2, 'scbR': 1}
+ScbA positive {'SCB1': 1}
+ScbA negative {'A-factor': 1, 'SCB1': 1}
+scbA positive {'SCB1': 1}
+scbA negative {}
+actII-ORF4 positive {'actinorhidin': 1, 'actinorhodin': 1}
+actII-ORF4 negative {}
+SmpB positive {'tmRNA': 1}
+SmpB negative {}
+MMP9 positive {'IL-8': 1}
+MMP9 negative {}
+CDK-1 positive {'SREBP-1': 1}
+CDK-1 negative {}
+flagellin positive {'ERK': 1}
+flagellin negative {}
+MvaT positive {'cupA': 1, 'oprD': 1, 'mexEF-oprN': 1, 'RsmZ': 1}
+MvaT negative {'mexEF-oprN': 1}
+RcsB positive {'cupD': 5, 'cupD1': 1, 'CupD1': 1, 'RcsB': 3, 'rmpA': 6, 'cps': 2, 'KvrA': 1, 'manC': 4}
+RcsB negative {}
+RocA1 positive {'cupB': 2, 'cupC': 4}
+RocA1 negative {'cupC': 1}
+RocR positive {}
+RocR negative {'cupB': 2, 'cupC': 3}
+Rcs positive {'cupD': 1, 'PhoPQ': 1, 'KpnEF': 1}
+Rcs negative {'cupD': 1}
+Roc positive {}
+Roc negative {'cupB': 1, 'cupC': 1}
+PvrR positive {}
+PvrR negative {'cupD': 3}
+ovispirin-1 positive {'vraD': 1}
+ovispirin-1 negative {}
+alkA positive {'alkA': 1}
+alkA negative {}
+SP-1 positive {'ADRP': 5}
+SP-1 negative {}
+BacA positive {'l-anticapsin': 1}
+BacA negative {}
+BacB positive {'l-anticapsin': 1}
+BacB negative {}
+FhaC positive {'FHA': 1}
+FhaC negative {}
+CdrB positive {'CdrA': 1}
+CdrB negative {}
+CdrA positive {'Psl': 1}
+CdrA negative {}
+FleQ positive {'cdrA': 1}
+FleQ negative {}
+PLP positive {'ORF34': 1}
+PLP negative {}
+VirF positive {'VirB': 1, 'VirG': 1, 'LacZ': 1, 'icsA': 1}
+VirF negative {}
+Dhh1p positive {'Ste12p': 1}
+Dhh1p negative {}
+PmrA positive {'pmrD': 1, 'pmr': 1, 'lpxT': 1, 'pmrR': 2, 'pbgP': 1, 'pmrC': 3, 'ybjG': 1, 'pmrCAB': 1}
+PmrA negative {'pmrD': 1, 'lpxT': 1, 'rsmY': 2, 'RsmY': 1, 'RsmZ': 1}
+PmrD positive {'pmrD': 1, 'PmrA': 3, 'PmrB': 1, 'PmrD': 1}
+PmrD negative {}
+Tet repressor positive {'murA': 1}
+Tet repressor negative {}
+BlaR1 positive {'PC1 β-lactamase': 1, 'blaR1': 1, 'blaZ': 1}
+BlaR1 negative {'mecA': 1}
+InvR positive {'OmpD porin': 1}
+InvR negative {}
+Hfq positive {'DsrA': 1, 'RprA': 1, 'RyhB': 1, 'Spot42': 1, 'SgrS': 1, 'Hfq': 2, 'RNase E': 2, 'phl': 1, 'cyoA–E': 1, 'prn': 2, 'hcn': 2, 'pcaK': 1, 'crcY': 1, 'crcZ': 2, 'crcZ/Y': 4, 'crc': 1, 'rpoS': 1, 'pcaR': 1, 'pcaC': 1, 'CrcZ': 2, 'Crc': 1}
+Hfq negative {'Plt': 2, 'phl': 1, 'ped': 1, 'pqq': 1, 'crcZ': 1, 'crcY': 1, 'PCA': 1, 'algC': 1, 'opdP': 1, 'PhrS': 1, 'kan': 3, 'tet': 2, 'lpp': 1, 'pnp': 1, 'acrAB': 1, 'YFP': 1, 'hilR': 1}
+StyR-3 positive {'ramA': 1}
+StyR-3 negative {}
+OxyR positive {'dps': 1, 'fur': 1, 'katG': 1, 'catalase': 1, 'agn43': 1}
+OxyR negative {'irmA': 4}
+CesR positive {'lmo2812': 1}
+CesR negative {}
+VanR positive {}
+VanR negative {'vanSR': 1}
+IMPDH positive {"xanthosine-5'P": 1}
+IMPDH negative {}
+YhbJ positive {'glmZ': 1}
+YhbJ negative {'GlmS': 1}
+yhbJ positive {}
+yhbJ negative {'glmS': 1, 'GlcN-6-P': 1}
+CRP positive {'gat': 1, 'TF': 1, 'marRAB': 1, 'aroX': 5, 'npsA': 1, 'mqsRA': 1}
+CRP negative {}
+tnaA positive {'L-cysteine': 1, 'L-tryptophan': 1}
+tnaA negative {}
+RNAp positive {'tetR': 1}
+RNAp negative {}
+SgcE1 positive {'hxlAB': 1}
+SgcE1 negative {}
+PtlE positive {}
+PtlE negative {'VirB1': 1}
+RocS1 positive {'RocA1': 3, 'cupC': 1, 'cupB': 1, 'RocS1': 1, 'RocS2': 1}
+RocS1 negative {}
+RocA2 positive {'cupC': 1}
+RocA2 negative {'mexAB': 1, 'MexAB': 1, 'mexAB-oprM': 1}
+mexR positive {'mexAB': 1}
+mexR negative {'mexAB-oprM': 1}
+blaZ positive {'mecA': 1}
+blaZ negative {'PBP2a': 1}
+bla positive {'mecA': 5}
+bla negative {}
+SOS positive {'integron integrase': 1}
+SOS negative {}
+LexA positive {'integrase': 1, 'intI': 1, 'intIA': 2, 'cell wall hydrolase': 1, 'ccrC1': 1, 'lexA': 1, 'qepA1': 1, 'TisB': 1, 'tisB': 1}
+LexA negative {'LexA': 1, 'IntSXT': 2, 'qnrB': 1, 'IntI1 integrase': 1, 'tisB': 1}
+SetR positive {'LexA': 1}
+SetR negative {}
+arginase-1 positive {'L-proline': 1}
+arginase-1 negative {}
+Ptac positive {'penA': 1, 'ampC': 1, 'phoR': 1, 'SGI1': 1}
+Ptac negative {}
+PenR positive {'PenA β-lactamase': 1}
+PenR negative {}
+AcrAB positive {'AcrEF': 1, 'AcrD': 1}
+AcrAB negative {}
+AcrEF positive {'AcrEF': 1, 'AcrD': 1}
+AcrEF negative {}
+FNR positive {'acrEF': 1, 'fnr': 1}
+FNR negative {}
+MarA positive {'AcrEF': 1, 'micF': 2, 'OmpF': 1, 'marRAB': 2, 'PinaA': 1, 'AcrAB': 1, 'acrAB': 7, 'tolC': 1, 'acrZ': 1}
+MarA negative {'MarA': 1, 'hdeAB': 1, 'OmpF': 1}
+QacR positive {}
+QacR negative {'qacA': 1}
+MDSA positive {'protein A': 1}
+MDSA negative {'MgrA': 1, 'hla': 3, 'spa': 2}
+MgrA positive {'hla': 2, 'spa': 1, 'capsule': 2, 'sortase': 2}
+MgrA negative {'Tet38': 1, 'NorA': 1, 'NorB': 1, 'NorC': 1, 'hla': 1, 'spa': 1}
+CSP1 positive {'comX': 4}
+CSP1 negative {'CbpD': 2, 'LytA': 2}
+CSP2 positive {'comX': 1}
+CSP2 negative {'CSP1': 1, 'CSP2': 1}
+CCR positive {}
+CCR negative {'GSP': 1}
+Prp positive {'mpr': 1}
+Prp negative {}
+MtrR positive {'mtrCDE': 1, 'mtrC': 1}
+MtrR negative {'mtrCDE': 2, 'mtrC': 1}
+MexS positive {'MexEF-OprN': 1, 'mexEF-oprN': 2, 'oprD': 1}
+MexS negative {'mexEF-oprN': 1, 'mexEF-orN': 1}
+MexT positive {'MexEF-OprN': 2, 'mexEF-oprN': 2, 'mexEF-OprN': 1, 'mexS': 1}
+MexT negative {'mexAB-oprM': 1, 'OprD': 1}
+c-Myc positive {'ChFP': 1}
+c-Myc negative {}
+Fis positive {'vapBC-1': 7, 'lacZ': 1}
+Fis negative {}
+VapBC-1 positive {'vapBC-1': 2}
+VapBC-1 negative {}
+50US positive {}
+50US negative {'VapC-1': 1}
+fis positive {'vapBC-1': 1, 'fis': 1}
+fis negative {}
+vapBC-1 positive {'β-galactosidase': 1}
+vapBC-1 negative {}
+AmpR positive {'ampC': 8, 'AmpG': 1, 'AmpC': 6, 'ampG': 1, 'ampP': 1, 'ampD': 1, 'creD': 1, 'ampC β-lactamase': 1, 'AmpC β-lactamase': 1, 'pyocyanin': 1, 'PoxB': 1, 'lasB': 1, 'rhlR': 1}
+AmpR negative {'PtrB': 2, 'PrtR': 2, 'creD': 1, 'LecA': 1, 'PtrN': 1, 'RecA': 1, 'mexAB-oprM': 1, 'ampC': 2, 'poxB': 1, 'lasA': 1, 'lasI': 1, 'lasR': 1}
+ampR positive {'ampC': 2, 'AmpC': 1}
+ampR negative {'LasB': 2, 'LasB elastase': 2, 'ampC': 1}
+RpoS positive {'phlA': 1, 'rsmA': 1, 'SoxS': 1, 'SoxR': 1, 'RgsA': 2, 'osmB': 2, 'ompF': 1, 'ndvB': 1}
+RpoS negative {'lecA': 1, 'MexT': 1}
+RhlR positive {'rhlA': 2}
+RhlR negative {'lecA': 1, 'C4-HSL': 1, 'rhlI': 1, 'rhlAB': 1, 'rhlC': 1}
+ptrB positive {'pyocin': 1}
+ptrB negative {'pyocin': 1}
+PrtR positive {'pyocin': 2}
+PrtR negative {'pyocin': 3, 'PrtN': 1}
+CreBC positive {'CreD': 1}
+CreBC negative {}
+CcpA positive {'icaADBC': 1, 'agr': 1, 'cpe': 1, 'rppA': 3}
+CcpA negative {'tcdB': 1, 'cpe': 1}
+FlhDC positive {'phlA': 1}
+FlhDC negative {}
+RssAB positive {}
+RssAB negative {'flhDC': 1}
+LisRK positive {}
+LisRK negative {'PBP4': 1}
+PimR positive {}
+PimR negative {'Pimaricin': 1, 'pimM': 3}
+PolY positive {'polR': 1}
+PolY negative {'PolR': 1}
+pimI positive {}
+pimI negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+pimJ positive {}
+pimJ negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+pimAB positive {}
+pimAB negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+pimE positive {}
+pimE negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+pimS1 positive {}
+pimS1 negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+pimD positive {}
+pimD negative {'pimK': 1, 'pimS2S3S4': 1, 'pimI': 1, 'pimJ': 1, 'pimAB': 1, 'pimE': 1, 'pimS1': 1, 'pimD': 1}
+SCO4944 positive {}
+SCO4944 negative {'SCO4945': 1}
+MecR1 positive {'mecA': 8}
+MecR1 negative {'mecA': 1}
+MecR2 positive {'mecA': 6, 'MecI': 1}
+MecR2 negative {'mecA': 3, 'MecI': 1, 'PmecA': 1}
+mecR1 positive {'mecA': 6, 'MecA': 1}
+mecR1 negative {}
+mecR2 positive {'mecA': 6, 'MecR1': 1}
+mecR2 negative {'mecA': 3, 'MecR1': 2}
+AsrR positive {}
+AsrR negative {'gls24': 1, 'glsB': 1}
+JAB peptidase positive {}
+JAB peptidase negative {'Ubl': 1}
+rtfA positive {'nsdD': 1, 'steA': 1}
+rtfA negative {'ST': 1}
+VeA positive {'aflR': 1, 'AflR': 1, 'AflJ': 1}
+VeA negative {}
+veA positive {'rtfA': 1}
+veA negative {}
+RtfA positive {'ST': 1}
+RtfA negative {}
+SCB1 positive {'PhCMV*−1': 3, 'PSPA': 3, 'PTtgR1': 3, 'GLuc': 1, 'SEAP': 1, 'scbA': 2}
+SCB1 negative {'scbA': 1, 'PhCMV*−1': 1, 'PSPA': 1, 'PTtgR1': 1}
+DasR positive {'cpk': 1, 'PKSs': 1}
+DasR negative {'nagB': 3, 'nagKA': 2, 'BlmR': 3, 'dmdR1': 1, 'dpt': 1, 'adpA': 3, 'daptomycin': 1}
+Tup1 positive {'Ssn6': 1}
+Tup1 negative {}
+ActR positive {'PactAB': 3}
+ActR negative {'actAB': 1}
+actI positive {'PactAB': 1}
+actI negative {}
+PsrA positive {'RpoS': 2, 'rpoS': 4, 'phlA': 2, 'rsmA': 3, 'rsmZ': 1, 'lexA': 1}
+PsrA negative {'phlA': 1}
+phlA positive {'phlA': 1}
+phlA negative {}
+rsmA positive {'2,4-DAPG': 1}
+rsmA negative {}
+GacS positive {'psrA': 1, 'RsmY': 1, 'RsmZ': 1, 'rsmX': 1, 'rsmY': 3, 'rsmZ': 1, 'Lon': 1}
+GacS negative {}
+MicF positive {'OmpF': 1, 'OmpC': 1}
+MicF negative {'lrp': 1, 'OmpF': 1}
+MtrA positive {'mtrCDE': 2, 'dnaA': 1}
+MtrA negative {'mtrCDE': 1}
+SoxS positive {'sodA': 2, 'marRAB': 1, 'acrAB': 1, 'tolC': 1, 'acrZ': 1}
+SoxS negative {'acrAB': 1}
+MarR positive {'marA': 1, 'soxS': 1, 'mar': 1}
+MarR negative {'marA': 1, 'lacZ': 1, 'marRAB': 1}
+SoxR positive {'marA': 1, 'soxS': 10, 'ecaD': 1, 'SCO2478': 1, 'SoxS': 1}
+SoxR negative {}
+Crp positive {'SCO4921': 1, 'SCO5261': 1, 'cya': 2, 'HSAF': 1, 'WAP-8294A2': 1, 'acdH': 1, 'atoB': 1, 'mutB': 1, 'PKS': 1, 'monRI': 2, 'monD': 4, 'monAX': 4, 'dptR1': 1, 'dptR3': 1, 'dpt': 1, 'dptP': 2, 'dptM': 2, 'dptN': 2}
+Crp negative {}
+CmeR positive {'cmeABC': 2}
+CmeR negative {'cmeABC': 1}
+tamI positive {'Tam': 1}
+tamI negative {}
+tamI expression positive {'Tam': 1}
+tamI expression negative {}
+NicK positive {'HelP': 1, 'PcrA': 1}
+NicK negative {}
+HelP positive {'PcrA': 7, 'Ssb': 2, 'ICEBs1': 2, 'HelP': 2}
+HelP negative {'ICEBs1': 1}
+helP positive {'PcrA': 1, 'ICEBs1': 1, 'Ssb': 1}
+helP negative {}
+PcrA positive {'PcrA': 1, 'ICEBs1': 1}
+PcrA negative {'ICEBs1': 1}
+RapI positive {'ICEBs1': 3}
+RapI negative {}
+rapI positive {'ICEBs1': 2}
+rapI negative {}
+Ppen positive {'lacZ': 1}
+Ppen negative {}
+Tet positive {'tet(S/M': 1, 'TNF-α': 2}
+Tet negative {}
+LiaR positive {'PliaI': 2}
+LiaR negative {}
+aeroplysinin-1 positive {'COX-2': 1}
+aeroplysinin-1 negative {'TSP-1': 1, 'MCP-1': 1, 'COX-2': 2}
+aeroplysin-1 positive {}
+aeroplysin-1 negative {'COX-2': 2}
+nocK positive {'nocardicin A': 1}
+nocK negative {}
+mexZ positive {'MexXY': 2}
+mexZ negative {}
+MexZ positive {'mexXY': 4}
+MexZ negative {'mexXY': 4, 'MexXY': 3}
+ArmZ positive {'MexZ': 1, 'MexXY': 1, 'mexXY': 1}
+ArmZ negative {'mexXY': 1}
+OCT4 positive {'REX1': 1}
+OCT4 negative {}
+HP0892 positive {'hp0893': 1}
+HP0892 negative {}
+HP0893 positive {'HP0892': 1}
+HP0893 negative {}
+P-gp positive {'P-gp': 2}
+P-gp negative {}
+PU.1 positive {'TLR2': 1, 'CD11b': 1}
+PU.1 negative {}
+GM-CSF positive {'STAT5': 1, 'caspase 3': 1, 'iNOS': 1}
+GM-CSF negative {}
+YY1 positive {'SLC26A3': 1}
+YY1 negative {}
+IFN-γ positive {'STAT1': 1, 'iNOS': 5}
+IFN-γ negative {'SLC26A3': 1}
+pendrin positive {'Pendrin': 1}
+pendrin negative {}
+FOXI1 positive {'pendrin': 1}
+FOXI1 negative {}
+TTF-1 positive {'pendrin': 1}
+TTF-1 negative {}
+thyroglobulin positive {'Pendrin': 2}
+thyroglobulin negative {}
+insulin positive {'Pendrin': 1, 'Akt': 4, 'GLUT4': 1}
+insulin negative {'apoc3': 2}
+PKC-ε positive {'Pendrin': 1}
+PKC-ε negative {}
+SLC26A9 positive {}
+SLC26A9 negative {'SLC26A9': 1}
+chpH positive {}
+chpH negative {'eGFP': 1}
+HIF 1α positive {}
+HIF 1α negative {'HIF 1α': 4, 'p300': 2}
+TetR positive {'tetA': 1, 'tetB': 2, 'TetA': 2}
+TetR negative {'flp recombinase': 1, 'TetA': 2, 'tetA': 1}
+GDP-L-fucose positive {}
+GDP-L-fucose negative {'GDP-mannose-4,6-dehydratase': 1}
+xysA positive {}
+xysA negative {'yefMsl': 1}
+RamR positive {'ramA': 1, 'RamA': 1, 'ramC': 2}
+RamR negative {'ramA': 11, 'RamA': 1}
+tatABC positive {'BRO-2': 1}
+tatABC negative {}
+PhCMVmin positive {'ScbR': 1, 'TetR-VP16': 1}
+PhCMVmin negative {}
+Mce3R positive {}
+Mce3R negative {'mce3': 1}
+TET positive {'PhCMV*−1': 3, 'PSPA': 3, 'PTtgR1': 3, 'SEAP': 1}
+TET negative {'PhCMV*−1': 1, 'PSPA': 1, 'PTtgR1': 1}
+phloretin positive {'PhCMV*−1': 3, 'PSPA': 3, 'PTtgR1': 3}
+phloretin negative {'PhCMV*−1': 1, 'PSPA': 1, 'PTtgR1': 1}
+PSPA positive {'GLuc': 2, 'SEAP': 1}
+PSPA negative {}
+PhCMV*−1 positive {'GLuc': 1}
+PhCMV*−1 negative {}
+ST-TA positive {'GLuc': 1}
+ST-TA negative {}
+WeeK positive {'UDP-diNAcBac': 1}
+WeeK negative {}
+WeeJ positive {'UDP-diNAcBac': 1}
+WeeJ negative {}
+WeeI positive {'UDP-diNAcBac': 1}
+WeeI negative {}
+IE positive {'green fluorescent protein': 1}
+IE negative {}
+EsiB positive {}
+EsiB negative {'SIgA': 3, 'FcαRI': 3, 'p38': 1}
+FcαRI positive {'p38': 1}
+FcαRI negative {}
+MELK positive {'FOXM1': 13, 'MELK': 3}
+MELK negative {}
+FOXM1 positive {'FOXM1': 3, 'VEGF': 1}
+FOXM1 negative {}
+PLK1 positive {'FOXM1': 5, 'PLK1': 1}
+PLK1 negative {}
+ONO1910 positive {'PLK1': 1}
+ONO1910 negative {'PLK1': 1}
+Siomycin A positive {}
+Siomycin A negative {'FOXM1': 1, 'MELK': 1}
+sihsp90α positive {'hsp90α': 1, 'Akt': 1}
+sihsp90α negative {'Akt': 1}
+Rev1 positive {'IL-1β': 1, 'IL-2': 1, 'GM-CSF': 1, 'IFN-Υ': 1, 'TNF-α': 1}
+Rev1 negative {}
+CIP positive {'SodA': 1, 'SodB': 1, 'sodA': 2, 'sodB': 1, 'qnrB': 2}
+CIP negative {}
+BBS-1 positive {'sodA': 1}
+BBS-1 negative {}
+BBS-2 positive {'sodA': 1}
+BBS-2 negative {}
+BaeSR positive {'SOD': 5, 'SodA': 1, 'SodB': 1}
+BaeSR negative {}
+BaeR positive {'sodA': 1, 'sodB': 1}
+BaeR negative {}
+NsrR positive {'sodB': 1}
+NsrR negative {}
+essA positive {'EsxA': 1, 'EsxB': 1}
+essA negative {}
+essB positive {'EsxA': 1, 'EsxB': 1}
+essB negative {}
+essC positive {'EsxA': 1, 'EsxB': 1}
+essC negative {}
+Sfp positive {'6dEB': 1}
+Sfp negative {}
+DEBS positive {'6dEB': 1}
+DEBS negative {}
+PknB positive {'PknA': 1, 'PrsH': 1}
+PknB negative {}
+PrsH positive {'SigH': 1}
+PrsH negative {}
+SigX positive {'oprF': 5, 'oprD': 1}
+SigX negative {}
+RpoE positive {'SigX': 1}
+RpoE negative {}
+RecA positive {'LexA': 3, 'LexA repressor': 2, 'ccrC1': 1}
+RecA negative {}
+RecA* positive {'LexA': 1, 'LexA repressor': 1}
+RecA* negative {}
+LmbB2 positive {'DOPA': 1}
+LmbB2 negative {}
+ParR positive {'arn': 1, 'MexS': 1}
+ParR negative {}
+KCNE1 positive {'IhERG': 1}
+KCNE1 negative {}
+PAßN positive {'amrB': 1, 'bpeB': 1}
+PAßN negative {}
+amrB positive {}
+amrB negative {'amrB': 1}
+CmeB positive {}
+CmeB negative {'CmeB': 1}
+cmeB positive {}
+cmeB negative {'CmeB': 1}
+CmeA positive {}
+CmeA negative {'CmeA': 1}
+MgtA positive {'PhoP': 1, 'pagC': 1, 'pagK': 1, 'PhoP-P': 1}
+MgtA negative {}
+RstA positive {'feoB': 1, 'mgtA': 1}
+RstA negative {}
+PhoP-P positive {'PhoP-P': 1}
+PhoP-P negative {}
+BldD positive {'SCO4676': 1, 'lmrC': 1, 'lmbU': 1, 'adpA': 2, 'afsR': 1, 'dptR3': 1}
+BldD negative {'adpA': 1}
+wdpB positive {'SCO4676': 1, 'wdpB': 1}
+wdpB negative {}
+SCO4676 positive {'scr4677': 2}
+SCO4676 negative {}
+SCO4677 positive {'scr4677': 1}
+SCO4677 negative {}
+CAT positive {'CAT': 2, 'Hfq': 1}
+CAT negative {}
+AcnA positive {'IDH': 1, 'FtsZ': 1}
+AcnA negative {}
+ppGpp positive {'SCO4005': 1, 'lrp': 1}
+ppGpp negative {'mazEFG': 1}
+VapB-1 positive {'VapC-1': 1}
+VapB-1 negative {}
+MqsR positive {'mqsRA': 1}
+MqsR negative {}
+MarR repressor positive {}
+MarR repressor negative {'MarA': 1}
+MepR positive {}
+MepR negative {'mepA': 2}
+TOB positive {'SOS': 1}
+TOB negative {}
+DD-Cre positive {'TeNT': 2}
+DD-Cre negative {}
+ConA positive {'BNIP3': 3, 'COX-2': 3, 'STAT3': 6, 'NANOS1': 3, 'MT1-MMP': 5, 'ConA': 1, 'proMMP-2': 1}
+ConA negative {'MT1-MMP': 1}
+NANOS1 positive {'MT1-MMP': 2}
+NANOS1 negative {}
+E-cadherin positive {'NANOS1': 1}
+E-cadherin negative {}
+pSTAT3 positive {'MT1-MMP': 1}
+pSTAT3 negative {}
+MT1-MMP positive {'ConA': 1, 'proMMP-2': 1}
+MT1-MMP negative {}
+BcrR positive {'bcrAB': 2, 'BcrAB': 1}
+BcrR negative {}
+NalA positive {'NalA': 1}
+NalA negative {}
+PKB positive {'Faim2': 1}
+PKB negative {}
+Shield-1 positive {'TCOF1': 3, 'DD-TCOF1': 1}
+Shield-1 negative {}
+AlgZ positive {'RsmYZ': 1}
+AlgZ negative {}
+TcaR positive {'icaADBC': 1, 'spa': 1, 'sasF': 1, 'sarS': 1}
+TcaR negative {}
+SprX positive {'SpoVG': 6}
+SprX negative {'SpoVG': 12, 'YabJ': 2}
+PhoB/R positive {'xds': 1}
+PhoB/R negative {}
+PhoB positive {'xds': 2}
+PhoB negative {}
+SAV577 positive {'avermectin': 1}
+SAV577 negative {'aveR': 2}
+SAV576 positive {'SAV575': 1}
+SAV576 negative {'SAV575': 1, 'SAV577': 2, 'aveR': 2}
+SAV575 positive {}
+SAV575 negative {'SAV575': 1}
+Gcn1p positive {}
+Gcn1p negative {'Gcn2p': 1}
+Phyb positive {}
+Phyb negative {'Lcn972': 1}
+psm-mec positive {'protein A': 1}
+psm-mec negative {'agrA': 1, 'AgrA': 2, 'agr': 1, 'PSMα': 1}
+CsiV positive {'PBP1B': 1}
+CsiV negative {}
+LpoA positive {'PBP1B': 1}
+LpoA negative {}
+PBP1A positive {'PBP1B': 1}
+PBP1A negative {}
+SIRT1 positive {'COX-2': 2, 'TNF-α': 1}
+SIRT1 negative {'COX-2': 1}
+rif PKS positive {}
+rif PKS negative {'rifamycin B': 1}
+Agr positive {'delta-hemolysin': 1}
+Agr negative {'PSM-mec': 1}
+psm- mec positive {}
+psm- mec negative {'spa': 1}
+MftR positive {'mftR': 1, 'mftP': 1}
+MftR negative {}
+HucR positive {'uricase': 1}
+HucR negative {}
+PecS positive {'PecM': 2, 'pecM': 3}
+PecS negative {}
+StpA positive {}
+StpA negative {'Stk': 3, 'ddc': 2, 'l,d-transpeptidase': 1, 'Ldtfm': 1, 'MBP': 1}
+DdcS phosphatase positive {}
+DdcS phosphatase negative {'l,d-transpeptidase': 1, 'Ldtfm': 1}
+DdcRS positive {}
+DdcRS negative {'DdcY': 1}
+Clp positive {'HSAF': 1, 'WAP-8294A2': 2, 'Lat': 1}
+Clp negative {'histone acetyltransferase Hpa2': 1}
+pks positive {'HSAF': 1}
+pks negative {}
+T7 positive {'VapC': 1, 'arn': 1, 'speD2': 1}
+T7 negative {}
+sarA positive {'cspA': 2}
+sarA negative {'fnbA': 1, 'hla': 1}
+agr positive {'cspA': 2, 'hla (δ-hemolysin': 1, 'mecA': 1}
+agr negative {}
+sigB positive {'cspA': 2}
+sigB negative {}
+msaC positive {'sarA': 2, 'msaB': 1}
+msaC negative {}
+eryAI positive {'eryAI': 4, 'ermE': 4, 'Er-A': 1}
+eryAI negative {'eryAI': 2, 'ermE': 2}
+ermE positive {'eryAI': 4, 'ermE': 4}
+ermE negative {'eryAI': 1, 'ermE': 1}
+gouR positive {'gougerotin': 2}
+gouR negative {}
+Er-A positive {'Er-A': 1}
+Er-A negative {}
+mf-Lon positive {'GFP': 4, 'mCherry': 1, 'pdt#3': 2}
+mf-Lon negative {}
+pdt positive {'mf-Lon': 1, 'mCherry': 1}
+pdt negative {'MurA': 1}
+LeDSF3 positive {'Clp': 1, 'pks-nrps': 2, 'clp': 1}
+LeDSF3 negative {}
+RpfC positive {'RpfG': 1}
+RpfC negative {}
+raxB positive {'Colicin V': 1}
+raxB negative {}
+Smlt2001 positive {'Ax21': 1}
+Smlt2001 negative {}
+ubiquitin positive {'ExoU': 1}
+ubiquitin negative {}
+MsrB positive {}
+MsrB negative {'MsrB': 1}
+VraSR positive {'msrA1': 1}
+VraSR negative {}
+MCPIP1 positive {}
+MCPIP1 negative {'TNFα': 1, 'IL-1β': 1, 'IL-6': 1, 'MCP-1': 1}
+siMCPIP1 positive {}
+siMCPIP1 negative {'MCPIP1': 1}
+OGD positive {'TNFα': 2, 'IL-1β': 1}
+OGD negative {}
+MCP-1 positive {'MCPIP1': 1, 'MCP-1': 1, 'RANTES': 1}
+MCP-1 negative {}
+micF positive {'acrD': 1, 'mdtA': 1, 'mdtB': 1, 'OmpF': 1}
+micF negative {'OmpF': 1, 'ompK36': 1}
+beta 2 tubulin positive {'tetX': 1}
+beta 2 tubulin negative {}
+HSP70ARBCS2 positive {'tetX': 1}
+HSP70ARBCS2 negative {}
+pslA positive {'Psl': 1}
+pslA negative {}
+PhoR positive {'PhoP': 1}
+PhoR negative {'PhoB': 1, 'ppk': 1, 'pptA': 1}
+PhoU positive {'ORF4': 1, 'redD': 1}
+PhoU negative {'PhoB': 2, 'arcA': 1, 'PhoR': 1, 'SenX3': 1}
+PhoU+ positive {'rpoS': 1}
+PhoU+ negative {}
+ParB positive {}
+ParB negative {'ParB': 1, 'comCDE': 1}
+ssbB positive {}
+ssbB negative {'red fluorescent protein': 1, 'mKate2': 1}
+PssbB positive {}
+PssbB negative {'red fluorescent protein': 1, 'mKate2': 1}
+SnVR2 positive {}
+SnVR2 negative {'RANTES': 1, 'p40': 1}
+HrpY positive {'hrpS': 1}
+HrpY negative {}
+ArsC positive {'ArsC': 1}
+ArsC negative {}
+Mpl positive {'AmpC': 1}
+Mpl negative {}
+RpoD positive {'AcpP': 1, 'ReaL': 1}
+RpoD negative {}
+LIN positive {'TNFα': 2, 'IL-1β': 1, 'IL-6': 2}
+LIN negative {'IL-1β': 1}
+ISEcp1 positive {'blaCTX-M-15': 1, 'blaOXA-181': 1, 'blaCMY': 1, 'blaCMY -2': 1, 'blaCTX-M-2': 1, 'blaCTX-M': 4}
+ISEcp1 negative {'blaCTX-M': 1}
+AdeRS positive {'AdeABC': 2, 'AdeFGH': 2, 'AdeIJK': 2}
+AdeRS negative {}
+AdeL positive {'AdeABC': 2, 'AdeFGH': 2, 'AdeIJK': 2}
+AdeL negative {}
+AdeN positive {'AdeABC': 2, 'AdeFGH': 2, 'AdeIJK': 2}
+AdeN negative {}
+AdeS positive {'AdeR': 2, 'AdeABC': 1}
+AdeS negative {}
+caspase 1 positive {'IL-1β': 1}
+caspase 1 negative {}
+MarB positive {}
+MarB negative {'marRAB': 1}
+P53 positive {}
+P53 negative {'survivin': 1}
+Taxt positive {'st': 1}
+Taxt negative {}
+Tn1548-like-1 positive {}
+Tn1548-like-1 negative {'orfHPA2': 1}
+SetC positive {}
+SetC negative {'IntSXT': 1}
+SetD positive {}
+SetD negative {'IntSXT': 1}
+vanR positive {'msrC': 1}
+vanR negative {'vanA': 1}
+vanS positive {}
+vanS negative {'vanA': 1}
+agn43 positive {}
+agn43 negative {'irmA': 1}
+YeeR positive {'IrmA': 2}
+YeeR negative {}
+Ag43 positive {'IrmA': 2}
+Ag43 negative {}
+TAM positive {'IrmA': 1}
+TAM negative {}
+Vp1 positive {}
+Vp1 negative {'IL-8': 1, 'ERK1': 1, 'ERK2': 1}
+STAT3 positive {'Bcl2': 1, 'Bcl-xL': 1, 'c-Myc': 1, 'cyclin D1': 1, 'VEGF': 1, 'CAMP': 2, 'occludin': 1, 'MCOLN3': 2}
+STAT3 negative {'HO53': 1, 'UCP-1': 1}
+JadR2 positive {}
+JadR2 negative {'jadR1': 1}
+SVB1 positive {}
+SVB1 negative {'JadR3': 1}
+JadR1 positive {'Cml': 1}
+JadR1 negative {'Cml': 1}
+cmlR positive {'Cml': 1}
+cmlR negative {'Cml': 1}
+CmlR positive {'Cml': 1, 'Lsr2': 3}
+CmlR negative {'Lsr2': 1}
+Cml positive {'JadR1': 1}
+Cml negative {}
+lacZ positive {'green fluorescent protein': 1}
+lacZ negative {}
+CepR positive {'katB': 1, 'prn': 2}
+CepR negative {}
+SigB positive {'lrtA': 3}
+SigB negative {}
+Ptrc positive {'lrtA': 1}
+Ptrc negative {}
+MyD88 positive {'Lcn2': 3}
+MyD88 negative {}
+Lcn2 positive {'interleukin (IL)8': 1}
+Lcn2 negative {}
+interferon-γ positive {'Hu-Lcn2': 1}
+interferon-γ negative {}
+Spo0A positive {'ComK': 1, 'abrB': 1, 'Spo0A': 1, 'vanZ1': 2, 'SinI': 1}
+Spo0A negative {'abrB': 2}
+Spo0A-P positive {'sinI': 1, 'comK': 2, 'spoIIG': 1, 'tapA': 1, 'Spo0A-P': 1}
+Spo0A-P negative {'abrB': 4, 'lacZ': 1, 'sinI': 1, 'AbrB': 2, 'comK': 1}
+YlbF positive {'Spo0A': 5, 'Spo0A-P': 7, 'tapA': 1}
+YlbF negative {}
+YmcA positive {'Spo0A': 3, 'Spo0A-P': 10, 'tapA': 1, 'sinI': 1, 'ComK': 1}
+YmcA negative {}
+YaaT positive {'Spo0A-P': 6, 'tapA': 1, 'ComK': 1}
+YaaT negative {}
+sof-1 positive {'Spo0A': 2, 'sinI': 1, 'Spo0A-P': 1}
+sof-1 negative {'tapA': 2, 'spo0F': 1, 'comK': 1, 'sinI': 1}
+sad-67 positive {}
+sad-67 negative {'tapA': 2}
+ymcA positive {'Spo0A-P': 1, 'spoIIG': 1}
+ymcA negative {}
+Spo0F positive {'Spo0A': 1}
+Spo0F negative {}
+CopR positive {}
+CopR negative {'repR': 2, 'CopR': 1}
+copR positive {}
+copR negative {'RepR': 1}
+rnaIII positive {}
+rnaIII negative {'RepR': 1}
+TraA positive {}
+TraA negative {'traA': 1, 'traO': 1}
+Ptra positive {}
+Ptra negative {'lacZ': 1}
+tac positive {}
+tac negative {'traA': 1}
+TraN positive {'pIP501': 1}
+TraN negative {}
+TraA relaxase positive {'pIP501': 1}
+TraA relaxase negative {}
+clpX positive {'LtaS': 1}
+clpX negative {}
+clpP positive {'LtaS': 1}
+clpP negative {}
+DesK positive {'DesR': 1}
+DesK negative {}
+Fur box 1 positive {'KanR': 1}
+Fur box 1 negative {}
+Fur positive {'KanR': 1, 'SdhC/A': 1, 'CpxR': 1, 'prrF': 1, 'irgA': 1, 'sodB': 1}
+Fur negative {}
+iroA positive {'Sal': 1}
+iroA negative {}
+Ent positive {'IL-6': 1, 'CXCL1': 1, 'CXCL2': 1}
+Ent negative {}
+Ybt positive {'IL-6': 2, 'CXCL1': 2, 'CXCL2': 2, 'HIF-1α': 1}
+Ybt negative {}
+HIF-1α positive {'IL-1β': 3, 'IL-6': 3, 'CXCL1': 2, 'CXCL2': 2, 'MIP-3α': 2, 'CAMP': 1}
+HIF-1α negative {'HIF-1α': 1}
+Sal positive {'HIF-1α': 1}
+Sal negative {}
+SCO2038 positive {'trpBA': 1}
+SCO2038 negative {}
+TrpM positive {}
+TrpM negative {'TrpE1': 1, 'TrpE3': 1, 'Trp': 2}
+PintI positive {}
+PintI negative {'intI': 1}
+LasR positive {'mvfR': 2, 'pqsH': 2, 'pqsL': 1, 'psl': 1, 'lasI': 1, 'rhlI': 1, 'rhlR': 1, 'pqsR': 1}
+LasR negative {'C4-HSL': 1, 'rhlI': 1, 'LasR': 1, 'reaL': 2}
+MvfR positive {'MvfR': 1, 'phrS': 1, 'AhpC-F': 1, 'AhpB': 1, 'AhpB-TrxB2': 1, 'Dps': 1}
+MvfR negative {'pqsE': 1, 'pqs': 1}
+pqsA positive {}
+pqsA negative {'pqsA': 1, 'mvfR': 1}
+mvfR positive {}
+mvfR negative {'pqsA': 1}
+RNase P positive {'aac(6’)-Ib': 1}
+RNase P negative {}
+FruR positive {'fruBKA': 1}
+FruR negative {}
+LnmO positive {'LNM': 1, 'LNM E1': 1}
+LnmO negative {}
+EP01rec positive {'LacZ': 1}
+EP01rec negative {}
+MKK4 positive {'JNK1': 1, '3': 1}
+MKK4 negative {}
+MKK7 positive {'JNK1': 1, '3': 1}
+MKK7 negative {}
+PK-repBA positive {'RepA': 1}
+PK-repBA negative {}
+RNase R positive {'SmpB': 1}
+RNase R negative {}
+PenG positive {'pblB': 1}
+PenG negative {}
+Holin positive {'PblB': 1}
+Holin negative {}
+SUSP1 positive {'pOAR31': 1, 'pπγ': 1}
+SUSP1 negative {}
+SUSP2 positive {'pOAR31': 1, 'pπγ': 1}
+SUSP2 negative {}
+RhlI positive {'C4-HSL': 1}
+RhlI negative {'traI': 1, 'PrrH': 2}
+SdiA positive {}
+SdiA negative {'EC600': 1, 'traI': 1}
+LasI positive {}
+LasI negative {'traI': 1}
+AR positive {'CXCL9': 1, 'CXCL10': 1, 'CXCL11': 1, 'IDO1': 1}
+AR negative {}
+orf4 positive {'argimycins P': 1}
+orf4 negative {}
+ARNT positive {'HIF-α': 1}
+ARNT negative {}
+SLT2LOG positive {}
+SLT2LOG negative {'mecA': 1, 'qacA/B': 1, 'α-hemolysin': 1, 'hla': 1, 'δ-hemolysin': 1, 'hld': 1}
+Keap1 positive {}
+Keap1 negative {'Nrf2': 1}
+mTORC1 positive {'Nrf2': 1}
+mTORC1 negative {}
+Cu200 positive {'cusA': 1, 'copA': 1}
+Cu200 negative {}
+siHOXD10 positive {'TGIF1': 2}
+siHOXD10 negative {}
+siTGIF1 positive {}
+siTGIF1 negative {'HOXD10': 1}
+PhoPQ positive {'folA': 1, 'icsA': 1}
+PhoPQ negative {'lpxO': 1, 'pagP': 1, 'pmrC': 1, 'colistin': 1}
+S100A4 positive {'VEGF': 2, 'TNF-α': 3}
+S100A4 negative {}
+BlaI positive {'blaZ': 1}
+BlaI negative {}
+blaIARL positive {'blaARL': 1}
+blaIARL negative {}
+blaR1ARL positive {'blaARL': 1}
+blaR1ARL negative {}
+GntR positive {'agl3R': 1}
+GntR negative {'gnt': 1}
+PigT positive {'pigA–O': 1}
+PigT negative {}
+Lnc2 positive {}
+Lnc2 negative {'Enterobactin': 1}
+Plac positive {'GFP': 1}
+Plac negative {'dcas9': 1}
+LacI positive {}
+LacI negative {'dCas9': 1, 'GFP': 1, 'kan': 2}
+FabT positive {'fakB3': 6, '2CCA-1': 1, 'fab': 1, 'fabK': 2}
+FabT negative {'fabT': 1, 'fabK': 1}
+CORM-2 positive {'IL-6': 1, 'bhsA': 1, 'IL-8': 1, 'marABR': 1, 'mdtAB': 1, 'RecA': 1}
+CORM-2 negative {'hdeA': 1}
+EBL7 positive {'IL-6': 1, 'IL-8': 1}
+EBL7 negative {}
+ToxT positive {'ctxAB': 1, 'CT': 1, 'TCP': 1}
+ToxT negative {'CT': 1}
+Lsp positive {'HSAF': 1, 'WAP-8294A2': 2}
+Lsp negative {}
+soxR positive {'adeB': 1, 'adeJ': 1, 'adeG': 1, 'abeS': 1, 'abeM': 1, 'craA': 1, 'soxS': 1}
+soxR negative {'abeS': 1}
+pBD3 positive {}
+pBD3 negative {'IL-8': 1}
+PesA positive {'pyoS3A-I': 2, 'pyoS3I': 4, 'pyoS3A': 2, 'sfGFP': 1}
+PesA negative {'pyoS3A-I': 1}
+sfGFP positive {'sfGFP': 1}
+sfGFP negative {}
+PhoY positive {}
+PhoY negative {'RegX3': 1}
+PhoY1 positive {'RegX3': 1}
+PhoY1 negative {'RegX3': 1}
+PhoY2 positive {'RegX3': 1}
+PhoY2 negative {'RegX3': 1}
+RegX3 positive {'ppk1': 1}
+RegX3 negative {}
+AcrB positive {'ramA': 1}
+AcrB negative {}
+RetS positive {'GacS': 1}
+RetS negative {'tssABC1': 1, 'RsmX': 1, 'RsmZ': 1}
+BrlR positive {'mexAB-oprM': 2, 'mexEF-oprN': 1}
+BrlR negative {'mexAB-oprM': 1}
+CpxR positive {'CpxA': 1, 'virF': 1, 'yqjA': 1}
+CpxR negative {'mexAB-oprM': 1, 'glpT': 1, 'uhpT': 1, 'fosfomycin': 1}
+AtRaptor positive {}
+AtRaptor negative {'AtTOR': 1, 'AtTOR embryonic': 1}
+PenStrep positive {'ATF3': 1}
+PenStrep negative {'ATF3': 1}
+PrgX positive {'PrgX': 1}
+PrgX negative {'PrgX': 1, 'prgQ': 1}
+pCF10 positive {'PrgX': 1}
+pCF10 negative {}
+BLR1 positive {}
+BLR1 negative {'ENV1': 1}
+BLR2 positive {}
+BLR2 negative {'ENV1': 1}
+ENV1 positive {}
+ENV1 negative {'CAZyme': 1}
+YPR2 positive {}
+YPR2 negative {'pks': 1, 'sorbicillin': 1}
+ypr2 positive {}
+ypr2 negative {'paracelsin': 1}
+YPR1 positive {}
+YPR1 negative {'sorbicillin': 1}
+ICOS positive {'IL-10': 1}
+ICOS negative {'IL-22': 1}
+BifR positive {'Nudix phosphohydrolase': 1, 'Nudix hydrolase': 1}
+BifR negative {'ecsC': 5, 'emrB-bif R': 3, 'LasA': 3, 'PCA': 1, 'emrB': 1, 'Nudix hydrolase': 1}
+FolA positive {'DHFR': 1}
+FolA negative {}
+BpeT positive {'BpeEF-OprC': 1, 'bpeEF-oprC': 3}
+BpeT negative {}
+BpeS positive {'bpeEF-oprC': 2}
+BpeS negative {}
+PspA positive {'pspA': 1}
+PspA negative {}
+-B positive {'pspA': 1, 'lacZ': 1}
+-B negative {}
+-C positive {'pspA': 1, 'lacZ': 1}
+-C negative {}
+PilQ positive {'pspA': 2, 'lacZ': 1}
+PilQ negative {}
+pIV positive {'pspA': 1, 'lacZ': 1}
+pIV negative {}
+RbsR positive {}
+RbsR negative {'rbsK': 2}
+CpxP positive {}
+CpxP negative {'Cpx': 1}
+Cpx positive {'cpxA': 1, 'CpxA': 1, 'KpnEF': 2, 'PhoPQ': 1, 'YqjA': 1}
+Cpx negative {}
+ArcA ~ P positive {}
+ArcA ~ P negative {'Cpx': 1}
+CpxR ~ P positive {}
+CpxR ~ P negative {'EfeUOB': 1, 'SQR': 1}
+xysAp positive {'yefMsl': 1}
+xysAp negative {}
+AggE positive {'fibronectin': 1}
+AggE negative {}
+DegU positive {'aprE': 3, 'bacilysin': 1, 'ywfH': 4}
+DegU negative {}
+ComK positive {'PcomK': 1}
+ComK negative {}
+DegU-P positive {'aprE': 1}
+DegU-P negative {}
+WhiB7 control positive {'whiB7': 1}
+WhiB7 control negative {}
+WhiB7 positive {'erm': 1, 'whiB7': 1, 'WhiB7': 1}
+WhiB7 negative {}
+p53 positive {'miR-143': 6, 'miR-107': 6, 'MSI-2': 1, 'PERP': 1}
+p53 negative {'miR-143': 2, 'miR-107': 2, 'MSI-2': 2}
+MSI-2 positive {'c-FOS': 7}
+MSI-2 negative {'MSI-2': 1}
+luciferase positive {'c-FOS': 1}
+luciferase negative {}
+miR-143 positive {}
+miR-143 negative {'MSI-2': 2, 'Bcl-2': 1}
+miR-145 positive {'MSI-2': 2}
+miR-145 negative {}
+miR-107 positive {}
+miR-107 negative {'MSI-2': 1}
+Pspank positive {'relLS20': 1}
+Pspank negative {}
+pifC positive {'oriT': 1, 'relaxase': 1, 'ColE1': 1, 'RSF1010': 1, 'IncW': 1}
+pifC negative {}
+PifC positive {'RSF1010': 1}
+PifC negative {}
+CalR3 positive {'CalR3': 1, 'calT': 1, 'calR3': 1}
+CalR3 negative {'calT': 4, 'CalR3': 1, 'CalT': 1}
+CTX positive {'CTX-M-1': 1, 'blaCTX–M–1': 7, 'CTX': 2, 'traF': 9, 'yhiN': 2, 'waaQ': 1, 'gnd': 1, 'pgl': 2, 'ISEcp1': 2, 'rfaH': 2}
+CTX negative {'recA': 1, 'sfiA': 1}
+CyaA positive {'fusA': 2, 'rpoD': 2, 'cpxA': 2, 'crp': 2}
+CyaA negative {}
+ISAba1 positive {'blaOXA-51': 1, 'ampC': 1, 'blaOXA-23': 2, 'blaADC': 2, 'bla': 1}
+ISAba1 negative {}
+CopG positive {}
+CopG negative {'copG': 1, 'repB': 1}
+PctII positive {}
+PctII negative {'lacZ': 1}
+PhoU1 positive {}
+PhoU1 negative {'SenX3': 1, 'RegX3': 1}
+PhoU2 positive {}
+PhoU2 negative {'SenX3': 1, 'RegX3': 1}
+mecA positive {'mecA': 1, 'PBP2A': 1}
+mecA negative {'PBP2A': 1}
+FBP positive {'pykF': 1}
+FBP negative {}
+ribose-5-phosphate positive {'Pyk1': 1}
+ribose-5-phosphate negative {}
+NrrF positive {'sdhC/A': 1, 'succinate dehydrogenase': 1}
+NrrF negative {}
+aggretin positive {'PDGF receptor beta': 1, 'PDGF-BB': 2}
+aggretin negative {}
+TEDC1 positive {'TEDC1': 1, 'TEDC2': 1}
+TEDC1 negative {}
+AbrB positive {}
+AbrB negative {'bacT': 2, 'bacA': 2, 'colistin': 2, 'tycA': 2}
+FMT positive {'OCLN': 1}
+FMT negative {'VanA': 1}
+FMTP positive {}
+FMTP negative {'Faecalibacterium': 1}
+SigR positive {'SigR2': 1}
+SigR negative {}
+loaP positive {'dfnA': 1, 'dfnG': 1, 'dfnM': 1, 'dfn': 1}
+loaP negative {}
+LoaP positive {'yfp': 1}
+LoaP negative {}
+TZP positive {'BlaTEM-1': 2}
+TZP negative {}
+MA200 positive {'SOD1': 1, 'CAT': 1, 'HO-1': 1, 'GPX4': 1, 'Nrf2': 1, 'ECH': 1}
+MA200 negative {}
+MA300 positive {'SOD1': 1, 'CAT': 1, 'HO-1': 1, 'GPX4': 1, 'Nrf2': 1, 'ECH': 1}
+MA300 negative {}
+ST147 positive {'blaOXA-48': 1}
+ST147 negative {}
+eptA.) Second, PmrA positive {'pmrR': 1}
+eptA.) Second, PmrA negative {}
+PmrR positive {}
+PmrR negative {'LpxT': 1}
+SbbR positive {'milR': 5, 'milbemycin': 2, 'sbbR': 2, 'sbbA': 2, 'nanchangmycin': 1}
+SbbR negative {'milR': 2, 'sbbA': 4, 'milbemycin': 1}
+MilR positive {'milA4-E': 1}
+MilR negative {}
+SbbA positive {}
+SbbA negative {'milbemycin': 3}
+PmilR positive {}
+PmilR negative {'sbbR': 1}
+PsbbA positive {}
+PsbbA negative {'sbbR': 1}
+JadR3 positive {'jadR1': 1}
+JadR3 negative {}
+PBrP positive {'TβRII': 9, 'Lamp-1': 1, 'TβRI': 1}
+PBrP negative {'TβRII': 2, 'Smad2': 7, '3': 6, 'N-cadherin': 1, 'vimentin': 1, 'fibronectin': 1}
+TβRII positive {'TβRI': 1}
+TβRII negative {}
+TGF-β positive {'Smad2': 1, '3': 2, 'SMAD2': 1, 'SMAD3': 1, 'STAT3': 2}
+TGF-β negative {}
+Hog1p positive {'Sic1p': 1, 'Rck2p': 2, 'Ste50p': 2}
+Hog1p negative {}
+PHO85 positive {'Sic1p': 1}
+PHO85 negative {}
+Far1p positive {'Fig1p': 1, 'Mpk1p': 1}
+Far1p negative {}
+Bni1p positive {'Fig1p': 1, 'Mpk1p': 1}
+Bni1p negative {}
+Spa2p positive {'Fig1p': 1, 'Mpk1p': 1}
+Spa2p negative {}
+Pea2p positive {'Fig1p': 1, 'Mpk1p': 1}
+Pea2p negative {}
+Fus2p positive {'Fig1p': 1, 'Mpk1p': 1, 'Rvs161p': 1}
+Fus2p negative {}
+Fus1p positive {'Fig1p': 1, 'Mpk1p': 1, 'Rvs161p': 1}
+Fus1p negative {}
+Fus3p positive {'Mpk1p': 1}
+Fus3p negative {}
+Cef positive {'EAAT2': 1, 'xCT': 1}
+Cef negative {}
+Rv0078 positive {}
+Rv0078 negative {'Rv0077c': 2}
+SMARt-420 positive {'Rv0077c': 1}
+SMARt-420 negative {}
+RocS2 positive {}
+RocS2 negative {'MexAB': 1, 'OprM': 1}
+ParS positive {'MexS': 1}
+ParS negative {}
+AraC positive {}
+AraC negative {'araBAD': 1, 'araC': 1}
+NalD positive {}
+NalD negative {'MexAB': 2}
+mexS positive {}
+mexS negative {'MexT': 1, 'mexEF-oprN': 1}
+HygB positive {'sav_4189': 1, 'sav_4190': 1}
+HygB negative {}
+RovA positive {'psa': 1, 'inv': 1}
+RovA negative {'rovA': 1}
+KvrA positive {'cps': 2, 'galF': 6, 'wzi': 6, 'RcsB': 3, 'rmpA': 6, 'KvrA': 1}
+KvrA negative {}
+KvrB positive {'cps': 2, 'galF': 6, 'wzi': 6, 'RcsB': 1, 'rmpA': 5, 'RmpA': 1}
+KvrB negative {}
+FXR positive {'CAMP': 1}
+FXR negative {'Cyp7a1': 1}
+GLP-1 positive {'insulin': 5}
+GLP-1 negative {}
+FEX positive {'GLP-1': 2}
+FEX negative {}
+FGF21 positive {'CYP7A1': 1}
+FGF21 negative {}
+MCR-3 positive {}
+MCR-3 negative {'MCR-3': 1}
+PrfA positive {'fosX': 1}
+PrfA negative {'Hpt': 1}
+Hpt positive {'fosfomycin': 1}
+Hpt negative {}
+Pδ positive {'fosX': 2}
+Pδ negative {}
+RssB positive {'RpoS': 1}
+RssB negative {}
+SarA positive {}
+SarA negative {'PBP1': 1}
+Rot positive {}
+Rot negative {'PBP1': 1}
+pmxA positive {}
+pmxA negative {'colistin': 1}
+pmxE positive {}
+pmxE negative {'colistin': 1}
+ectB positive {}
+ectB negative {'colistin': 1}
+spo0A positive {'colistin': 1}
+spo0A negative {'abrB': 1}
+SpsL positive {'SpsD': 1, 'SpsL': 1, 'fibronectin': 3, 'ED99': 1, 'cytokeratin-10': 2}
+SpsL negative {}
+SpsD positive {'ED99': 1, 'fibronectin': 2, 'cytokeratin-10': 1}
+SpsD negative {}
+ED99 positive {'fibronectin': 1, 'cytokeratin-10': 1}
+ED99 negative {}
+ramA positive {'acrAB': 2, 'acrEF': 1, 'tolC': 1}
+ramA negative {}
+mecI positive {'mecA': 1, 'MecA': 1}
+mecI negative {'mecA': 1}
+EmrR positive {'emrCAB': 1}
+EmrR negative {'emrA': 1, 'emrAB': 1}
+PtmF positive {'pactamycin': 1}
+PtmF negative {}
+PtmE positive {'pactamycin': 1}
+PtmE negative {}
+LaeA positive {}
+LaeA negative {'aflR': 1, 'FumR': 1}
+LaeA1 positive {'fusarin C': 1}
+LaeA1 negative {'fusarin C': 2}
+FumR positive {'fumagillin': 1}
+FumR negative {}
+CreA positive {}
+CreA negative {'pcbAB': 1}
+ScpR positive {'PKS': 1, 'afoE': 1, 'afoG': 1, 'afoA': 1}
+ScpR negative {}
+Zn2Cys6 positive {'fumonisin': 1}
+Zn2Cys6 negative {}
+AflR positive {'aflT': 1}
+AflR negative {'laeA': 1}
+ZEB2 positive {'zra1': 1}
+ZEB2 negative {}
+Cre recombinase positive {'egfp': 1}
+Cre recombinase negative {}
+Tat positive {'PvdN': 1, 'MexA': 2}
+Tat negative {}
+p2 positive {'blaKPC−2': 1}
+p2 negative {}
+omrA positive {}
+omrA negative {'OmpX': 1, 'OmpT': 1}
+Pthl positive {'cdd2': 1}
+Pthl negative {'CDD-1': 1, 'cdd2': 2}
+Pfdx positive {}
+Pfdx negative {'CDD-1': 1}
+Enteritidis positive {'LC3-II': 1}
+Enteritidis negative {}
+ISCR1 positive {'blaCTX-M': 1, 'qnrA1': 1}
+ISCR1 negative {}
+IS26 positive {'blaCTX-M': 1}
+IS26 negative {}
+PinaA positive {}
+PinaA negative {'yfp': 1}
+PacrAB positive {}
+PacrAB negative {'yfp': 1}
+VanZ1 positive {'vanZ1': 1}
+VanZ1 negative {}
+nisin positive {'cprA': 2}
+nisin negative {}
+sigR positive {'tmRNA': 1, 'HflX': 1}
+sigR negative {}
+amyE positive {'amyE': 1}
+amyE negative {}
+nalC positive {}
+nalC negative {'nalC': 1}
+RodA positive {'PBP2': 1}
+RodA negative {}
+IL10 positive {}
+IL10 negative {'IFN-γ': 1, 'IL12': 1}
+IL12 positive {'IFN-γ': 3}
+IL12 negative {}
+NorR positive {'hmp': 1}
+NorR negative {}
+VvPecS positive {'pecS': 1}
+VvPecS negative {}
+SlyA positive {}
+SlyA negative {'slyA': 1}
+MprA positive {}
+MprA negative {'emrA': 1}
+PmpsAB positive {'mpsB': 1}
+PmpsAB negative {}
+MpsA positive {'MpsA': 1}
+MpsA negative {}
+placUV5 positive {'GFP': 1, 'BFP': 1}
+placUV5 negative {}
+RmpA positive {'cps': 3, 'RmpA': 1, 'rmpC': 5, 'capsule': 1, 'rmpD': 4, 'rmpA': 2, 'rmp': 1}
+RmpA negative {}
+pRmpA positive {'manC': 1}
+pRmpA negative {}
+rmpC positive {'manC': 1, 'cps': 1}
+rmpC negative {}
+rmpA positive {'manC': 1}
+rmpA negative {}
+kvrA positive {'manC': 1}
+kvrA negative {}
+kvrB positive {'manC': 1}
+kvrB negative {}
+pKvrB positive {'manC': 1, 'manC-gfp': 1}
+pKvrB negative {}
+RmpC positive {'manC': 2, 'cps': 1}
+RmpC negative {}
+Toll-Like Receptor 9 positive {'BMP-2': 1}
+Toll-Like Receptor 9 negative {}
+Pi positive {'IκBα': 2}
+Pi negative {}
+BMP-2 positive {'Msx2': 1, 'Cbfα-1': 1}
+BMP-2 negative {}
+E8 positive {'thaumatin II': 1}
+E8 negative {}
+PerR positive {'katA': 1, 'catalase': 1}
+PerR negative {'PkatA-cat': 1, 'rbr1': 1, 'katA': 2, 'catalase': 2, 'cj1384c': 1}
+bosR positive {}
+bosR negative {'ospA': 1, 'ospB': 1, 'ospD': 1}
+RIF positive {'drrA': 1, 'mutS': 1, 'mutY': 1}
+RIF negative {}
+INH positive {'drrA': 1}
+INH negative {}
+VP positive {}
+VP negative {'RIF': 1}
+PII-25 positive {'stp': 1}
+PII-25 negative {'stp': 1}
+HO53 positive {'CAMP': 4, 'HBD1': 1, 'LYZ': 1, 'STAT3': 1, 'occludin': 3}
+HO53 negative {}
+HO56 positive {'CAMP': 2, 'HBD1': 1, 'LYZ': 1}
+HO56 negative {}
+Stattic positive {}
+Stattic negative {'CAMP': 1}
+pmrA positive {'tufA': 1}
+pmrA negative {}
+IL-22 positive {'STAT3': 1}
+IL-22 negative {'CCL20': 1}
+CagA positive {'Bad': 1, 'IL-8': 1, 'INF-γ': 1}
+CagA negative {}
+PDIA3 positive {'MCOLN3': 3}
+PDIA3 negative {}
+PDIA3 receptor positive {'MCOLN3': 1}
+PDIA3 receptor negative {}
+R6 positive {'ε‐PL': 3}
+R6 negative {}
+IpsA positive {'ino1': 1, 'inositol phosphate synthase': 1}
+IpsA negative {}
+MalR positive {'ino1': 1, 'inositol phosphate synthase': 1, 'CGP3': 1, 'CgpS': 1}
+MalR negative {}
+malR positive {}
+malR negative {'CGP3': 2}
+FomA positive {'fosfomycin': 1}
+FomA negative {}
+FomB positive {'fosfomycin': 1}
+FomB negative {}
+VraR positive {'hrcA': 1}
+VraR negative {}
+ComE positive {'comX': 1}
+ComE negative {}
+srf-29 positive {'cbpD': 1}
+srf-29 negative {}
+CiaR positive {'ccnC': 1}
+CiaR negative {'SatAB': 2, 'satAB': 2, 'satR': 1}
+srf-21 positive {'queT': 1, 'pezA': 1, 'cps2H': 1}
+srf-21 negative {}
+Lysozyme positive {'autolysin': 1}
+Lysozyme negative {}
+H-NS positive {'acrEF': 1, 'Lrp': 1}
+H-NS negative {'lsr2': 1, 'H-NS': 1, 'tra': 1, 'Lsr2': 1, 'virF': 1, 'virB': 1, 'SPI2': 1, 'tet(X4': 2, 'lrp': 1}
+Lsr2 positive {'bfr': 1}
+Lsr2 negative {'lsrL': 2, 'cmlR': 1}
+LsrL positive {}
+LsrL negative {'Lsr2': 1}
+ompR positive {}
+ompR negative {'Outer-membrane protein F': 1, 'ompK36': 1}
+trkH positive {}
+trkH negative {'rsmB': 1}
+TrkJ positive {'kdpFABC': 1}
+TrkJ negative {}
+QnrB positive {'DnaA': 3, 'oriC': 1}
+QnrB negative {}
+DUE‐R positive {'QnrB': 1}
+DUE‐R negative {}
+LadR positive {'mdrL': 2}
+LadR negative {'MdrL': 1, 'mdrL': 2}
+LmrR positive {}
+LmrR negative {'lmrCD': 2}
+LltR positive {}
+LltR negative {'lmo0600': 1}
+LstR positive {}
+LstR negative {'sigC': 1}
+Phr positive {}
+Phr negative {'RappLS20': 1}
+Pxyl positive {}
+Pxyl negative {'gfp': 1}
+rcopLS20 positive {'sespLS20': 1, '30': 1}
+rcopLS20 negative {}
+RcopLS20 positive {'sespLS20': 1, '30': 1}
+RcopLS20 negative {}
+RodA1 positive {'rodA3': 2}
+RodA1 negative {}
+LtdR positive {'hly3': 1}
+LtdR negative {}
+GATA2 positive {'ST2': 1}
+GATA2 negative {}
+AR2 positive {'CRP-S': 1}
+AR2 negative {}
+Sxy positive {'sxy': 1}
+Sxy negative {}
+SIR positive {'CRP-S': 1}
+SIR negative {}
+RfaH positive {'waaP': 1, 'waaQ': 1, 'gnd': 1, 'traF': 1, 'chuA': 1}
+RfaH negative {}
+gnd positive {'tra': 1, 'gnd': 1}
+gnd negative {}
+pgl positive {'tra': 1}
+pgl negative {}
+TF positive {}
+TF negative {'TF': 1}
+HFR1 positive {}
+HFR1 negative {'PIF1': 2}
+OsSPX4 positive {}
+OsSPX4 negative {'PIF1': 1}
+PIF1 positive {'PIF1': 1}
+PIF1 negative {'PIF1': 1}
+gel14 positive {'GelA': 1, 'P450 oxygenase': 2}
+gel14 negative {}
+phoU positive {'PhoRP': 1}
+phoU negative {}
+TcdR positive {'tcdA': 1, 'tcdB': 1}
+TcdR negative {}
+SigD positive {'tcdR': 1}
+SigD negative {}
+cfr positive {'Cfr': 1}
+cfr negative {}
+lukS positive {'PVL': 2}
+lukS negative {}
+ISApl1 positive {'mcr-1': 1, 'mcr‐1': 1}
+ISApl1 negative {}
+fusTE positive {'fusaricidin': 1}
+fusTE negative {}
+taRNA positive {'cat': 1}
+taRNA negative {}
+IL‐5 positive {}
+IL‐5 negative {'filaggrin': 1}
+IL‐17A positive {}
+IL‐17A negative {'filaggrin': 1}
+IL‐22 positive {}
+IL‐22 negative {'filaggrin': 1}
+TNFα positive {'IL‐1β': 1, 'caspase-8': 1}
+TNFα negative {}
+RsbU positive {'MgrA': 2}
+RsbU negative {}
+mgrA positive {'tet38': 1}
+mgrA negative {}
+small terminase positive {'GTA': 1}
+small terminase negative {}
+WTA positive {'PBP2a': 1}
+WTA negative {}
+TCS11 positive {'erm(B)': 1}
+TCS11 negative {}
+SERT positive {'5-HT': 1}
+SERT negative {}
+FapR positive {'FabK': 1}
+FapR negative {}
+proteinase K positive {'CPS1': 1}
+proteinase K negative {}
+AcrR positive {'AcrAB': 1}
+AcrR negative {'acrAB': 6}
+sortase A positive {'sabA': 1}
+sortase A negative {}
+CtcS positive {}
+CtcS negative {'ctcR': 1, 'TC/CTC': 1, 'CTC': 1}
+DptR3 positive {'dptR3': 2, 'dpt': 2}
+DptR3 negative {'orf16': 2}
+ctcS positive {}
+ctcS negative {'ctcR': 1}
+ctcR positive {}
+ctcR negative {'ctcR': 1}
+PEDF positive {}
+PEDF negative {'TNF-α': 1}
+MMP-2 positive {'PEDF': 1, 'TNF-α': 1}
+MMP-2 negative {}
+MMP-9 positive {'PEDF': 1}
+MMP-9 negative {}
+PKS positive {'PKS': 1}
+PKS negative {}
+C1 positive {}
+C1 negative {'T4': 1}
+GdhR positive {'gdhA': 1, 'lctP': 2}
+GdhR negative {'lctP': 8, 'gdhA': 1, 'mntC': 1, 'msrA': 1}
+OmpR positive {'ompF': 3, 'ompC': 1, 'osmB': 2}
+OmpR negative {'OmpC': 1, 'OmpF': 1}
+LysR positive {'HSAF': 1}
+LysR negative {}
+CdgL positive {'HSAF': 1}
+CdgL negative {'4‐HBA': 1, 'CdgL': 1}
+PdeR positive {'MlrA': 1}
+PdeR negative {}
+Prrn positive {}
+Prrn negative {'aadA': 1}
+IGF-1 positive {'IGF-1': 1}
+IGF-1 negative {}
+GM1 receptor positive {'IGF-1': 1}
+GM1 receptor negative {}
+Spx positive {'TrfA': 1, 'trfA': 3}
+Spx negative {'trfA': 1}
+ClpXP positive {'Spx': 3}
+ClpXP negative {}
+YjbH positive {'Spx': 1}
+YjbH negative {}
+trfA positive {'MazE': 1}
+trfA negative {}
+MazF toxin positive {'rsbW': 1}
+MazF toxin negative {}
+BlmR positive {}
+BlmR negative {'BlmT': 1, 'blmT': 1}
+Pc positive {'sul1': 1}
+Pc negative {}
+RedD positive {'Red': 2}
+RedD negative {}
+ermEp∗ positive {'papR2': 1}
+ermEp∗ negative {}
+PtipA positive {'papR2': 1}
+PtipA negative {}
+PapR2 positive {'Red': 1, 'redP': 1, 'redQ': 1}
+PapR2 negative {}
+SARP positive {'redP': 1, 'redQ': 1}
+SARP negative {}
+CTB-ACE2 positive {}
+CTB-ACE2 negative {'TGF-β1': 1}
+ACE2 positive {}
+ACE2 negative {'TGF-β 1': 1, 'ACE2': 1}
+MgrB positive {}
+MgrB negative {'phoPQ': 1, 'PhoPQ': 1}
+MicA positive {'phoPQ': 1, 'PhoPQ': 1, 'ompA': 1}
+MicA negative {'phoPQ': 1, 'PhoPQ': 1}
+PACT positive {'PKR': 2}
+PACT negative {}
+QseBC positive {'bcsA': 3, 'csgA': 3, 'fliC': 5, 'motA': 3, 'wcaF': 3, 'fimA': 3, 'marA': 2, 'acrA': 2, 'acrB': 2, 'acrD': 2, 'emrD': 2, 'mdtH': 2}
+QseBC negative {}
+QseB positive {'acrA': 1, 'acrB': 1}
+QseB negative {}
+PgaD positive {'PNAG': 1}
+PgaD negative {}
+LsrK positive {'AI-2': 2, 'lsr': 1}
+LsrK negative {}
+EcN positive {'DspB': 1, 'β-defensin 2': 1}
+EcN negative {}
+wcaF positive {'wcaF': 1}
+wcaF negative {}
+span20 positive {}
+span20 negative {'PBP2a': 1}
+AmpD positive {'ampC': 1}
+AmpD negative {}
+AmpG positive {'ampC': 1}
+AmpG negative {}
+G3KL positive {'arnB': 1, 'arn': 1, 'speD2': 1}
+G3KL negative {}
+pmrAB positive {'pmrAB': 1}
+pmrAB negative {}
+PBP2a positive {'Sle1': 4}
+PBP2a negative {}
+NLRP3 positive {'caspase-1': 1}
+NLRP3 negative {}
+rifaximin positive {'zonulin': 1}
+rifaximin negative {}
+TLR4 positive {'CD14': 1}
+TLR4 negative {}
+ompA positive {'ompA': 1}
+ompA negative {}
+SSr1 positive {'ompA': 1}
+SSr1 negative {}
+MisR positive {'ompA': 2}
+MisR negative {}
+PilG positive {}
+PilG negative {'HSAF': 1}
+LeTetR positive {'orf2195': 1, 'hsaf-pks-nrps': 1, 'orf7': 1}
+LeTetR negative {'orf7': 1, 'orf8': 1}
+LetR positive {'hsaf-pks-nrps': 1}
+LetR negative {}
+Orf9 positive {}
+Orf9 negative {'orf7': 1}
+tet(L) positive {'tet(L)': 1}
+tet(L) negative {}
+SrrB positive {}
+SrrB negative {'Lankacidin': 1, 'srrY': 3, 'lankacidin': 1, 'srrX': 1}
+srrY positive {'srrZ': 2}
+srrY negative {}
+SrrA positive {}
+SrrA negative {'srrY': 1, 'srrB': 1}
+AlpZ positive {'alpZ': 1, 'alpV': 1, 'alpXW': 1}
+AlpZ negative {'alpV': 3, 'alpXW': 2}
+srrB positive {}
+srrB negative {'srrY': 1, 'srrC': 1}
+peTrpL positive {'smeA': 1, 'smeR': 1}
+peTrpL negative {'smeR': 1, 'trpDC': 1}
+rnTrpL positive {}
+rnTrpL negative {'trpDC': 1}
+TraJR1 positive {'tra': 1}
+TraJR1 negative {}
+TraJ positive {'β-Galactosidases': 1, 'R1PY': 1, 'TraJ': 1}
+TraJ negative {}
+ArcA positive {'R1PY': 1, 'ArcA': 1, 'feo': 2, 'TraJ': 1}
+ArcA negative {}
+TraJF positive {'FPY': 1}
+TraJF negative {}
+CT positive {}
+CT negative {'LL-37': 1, 'HBD-1': 1}
+LT positive {}
+LT negative {'LL-37': 1, 'HBD-1': 1}
+PhlA positive {'prodigiosin': 1}
+PhlA negative {}
+PhlH positive {'2,4-DAPG hydrolase': 1}
+PhlH negative {'2,4-DAPG hydrolase': 2, 'phlG': 1, 'PhlG': 1}
+PltZ positive {}
+PltZ negative {'pltIJKNOP': 2}
+pltZ positive {}
+pltZ negative {'pltIJKNOP': 1}
+AlgP positive {'algD': 1}
+AlgP negative {}
+ampD positive {}
+ampD negative {'ampC': 1}
+KorC positive {}
+KorC negative {'klcAp': 1}
+korC positive {'orf02p': 1}
+korC negative {}
+korB positive {'orf02p': 1}
+korB negative {'trbBp': 1, 'korB': 1, 'trbA': 1}
+alpA positive {'alpA': 1}
+alpA negative {}
+TciR positive {'bisR': 1, 'ICEclc': 1}
+TciR negative {}
+ComS positive {}
+ComS negative {'ComK': 1}
+icaADBC positive {}
+icaADBC negative {'PIA': 1}
+CecR positive {}
+CecR negative {'cecR': 1}
+walKR positive {}
+walKR negative {'SsaA': 1}
+WalR positive {'sigI': 1, 'mreBH': 1, 'lytE': 1}
+WalR negative {}
+WalKR positive {'sigI': 1, 'mreBH': 1, 'lytE': 1, 'spdC': 1}
+WalKR negative {}
+RasP positive {'MreBH': 1, 'LytE': 1, 'RsiP': 2}
+RasP negative {}
+σI positive {'MreBH': 1, 'LytE': 1}
+σI negative {}
+CEF positive {'rodA': 1}
+CEF negative {}
+σM positive {'rodA': 1}
+σM negative {}
+GPL positive {'TLR4': 1}
+GPL negative {}
+PVL positive {'interleukin 8': 1}
+PVL negative {}
+TSST positive {'TNF-α': 1, 'IL-1': 1, 'IL-2': 1}
+TSST negative {}
+PAβN positive {'rhlA': 1}
+PAβN negative {'pelA': 1}
+interferon (IFN)-γ positive {'TRAIL': 1}
+interferon (IFN)-γ negative {}
+AMPKα positive {'Akt': 1}
+AMPKα negative {'UCP-1': 1}
+GPR41 positive {'leptin': 1}
+GPR41 negative {}
+leptin positive {'PGC1α': 1}
+leptin negative {}
+ace positive {'collagen type I': 1, 'collagen type IV': 1}
+ace negative {}
+qseC positive {'mcr-9': 2}
+qseC negative {}
+qseB positive {'mcr-9': 2}
+qseB negative {'mcr-9': 1}
+uhpA positive {'UhpT': 1}
+uhpA negative {}
+uhpB positive {'UhpT': 1}
+uhpB negative {}
+uhpC positive {'UhpT': 1}
+uhpC negative {}
+YciM positive {'LpxC': 1}
+YciM negative {}
+DksA positive {'argX': 2, 'hisR': 1, 'leuT': 1, 'proM': 1}
+DksA negative {}
+RelA positive {'ppGpp': 1}
+RelA negative {}
+LsrR positive {'mdtH': 1}
+LsrR negative {'mdtH': 3, 'lsrRK': 2}
+GacA positive {'rsmE': 2, 'rsmZ': 2, 'rsmX1': 1, 'RgsA': 1}
+GacA negative {'rsmE': 1, 'rsmH3': 1}
+narasin positive {'E-cadherin': 1}
+narasin negative {'N-cadherin': 1, 'vimentin': 1}
+TGFβ positive {'SMAD2': 1}
+TGFβ negative {}
+IL-6 positive {'STAT3': 10, 'IL-6': 4, 'E-cadherin': 2, 'N-cadherin': 3}
+IL-6 negative {}
+PD-L1 positive {'Gasdermin C': 1}
+PD-L1 negative {}
+HIF1α positive {'PD-L1': 2}
+HIF1α negative {}
+CHX positive {'caspase-8': 1}
+CHX negative {}
+AggR positive {'AAF': 1, 'dispersin': 1}
+AggR negative {}
+mcr positive {'Col-R': 1}
+mcr negative {}
+zapA positive {'IgA protease': 1}
+zapA negative {}
+CYP3A4 positive {'CYP2C9': 1}
+CYP3A4 negative {}
+rnc positive {'VicRK': 1}
+rnc negative {}
+NagR positive {'glmS': 1, 'nagAB': 1}
+NagR negative {}
+TLR7 positive {'IFN-α': 1}
+TLR7 negative {}
+ChdA positive {'chdR': 1}
+ChdA negative {}
+FakB3 positive {'2CCA-1': 1}
+FakB3 negative {}
+EcoTF positive {'CRAG': 1, 'LuxA': 1, 'LuxB': 1}
+EcoTF negative {}
+LinTF positive {'ClpP': 1}
+LinTF negative {}
+mexT positive {'mexEF-oprN': 1}
+mexT negative {'mexEF-oprN': 1}
+CmrA positive {}
+CmrA negative {'mexEF-oprN': 1}
+CRP42 positive {'mexEF-oprN': 1}
+CRP42 negative {}
+CATH-1 positive {'IL-8': 1, 'MCP-3': 1, 'RANTES': 1}
+CATH-1 negative {'IL-1β': 3}
+ABD1 positive {}
+ABD1 negative {'IL-1β': 2}
+ST30 positive {'IL-6': 1}
+ST30 negative {}
+Mfs2 over-production positive {'mexX': 2}
+Mfs2 over-production negative {}
+Mfs1 positive {'mexX': 2, 'MexXY': 1}
+Mfs1 negative {}
+Mfs2 positive {'mexX': 1, 'MexXY': 1}
+Mfs2 negative {}
+PpQE30 positive {}
+PpQE30 negative {'dcas9': 1}
+PflaB positive {}
+PflaB negative {'lacI': 1}
+AIP positive {}
+AIP negative {'AgrC': 1, 'AgrA': 1}
+lasR positive {'lasI': 1, 'exotoxin A': 2, 'LasA protease': 2, 'LasB elastase': 1}
+lasR negative {}
+las positive {'LasB elastase': 1, 'LasA protease': 1}
+las negative {'oprM': 1}
+IRE1 positive {'apoptotic-signaling kinase-1': 2}
+IRE1 negative {}
+mexY positive {}
+mexY negative {'MexY': 1}
+Cytb positive {}
+Cytb negative {'Cytb': 1}
+mcr‐3.5 positive {'mcr‐3.5': 1}
+mcr‐3.5 negative {}
+SI positive {'sucrase-isomaltase': 1}
+SI negative {}
+kasOp* positive {'dptP': 1}
+kasOp* negative {}
+DptP positive {}
+DptP negative {'dptD': 1, 'dptE': 1, 'dptF': 1, 'dptG': 1}
+ATP9 positive {'VAR1': 1}
+ATP9 negative {}
+RamA positive {'acrAB': 6, 'tolC': 1, 'ramA': 1, 'acrEF': 3, 'AcrAB': 1}
+RamA negative {}
+Rob positive {'acrAB': 1, 'tolC': 1}
+Rob negative {}
+EnvR positive {'acrEF': 1}
+EnvR negative {'acrEF': 1, 'acrAB': 1}
+Lon Protease positive {'RamA': 1}
+Lon Protease negative {}
+Lon protease positive {'PltR': 1}
+Lon protease negative {'RamA': 1, 'Plt': 1}
+GPR43 positive {}
+GPR43 negative {'Akt': 2, 'AMPKα': 1}
+AICAR positive {}
+AICAR negative {'Akt': 1}
+RyhB positive {'sodB': 1}
+RyhB negative {}
+ChiX positive {}
+ChiX negative {'ChiX': 1}
+QUD positive {'lsaA': 1}
+QUD negative {}
+AVSSL positive {}
+AVSSL negative {'AdipoQ': 1}
+SA-1 positive {}
+SA-1 negative {'lasI/R': 3, 'Las': 1}
+farR positive {}
+farR negative {'ponA': 2, 'pilQ': 1, 'penicillin-binding protein 1': 2}
+AphA positive {}
+AphA negative {'MfpABC': 1}
+VP0610 positive {}
+VP0610 negative {'VP0710': 1, 'VP0793': 1, 'opaR': 1, 'FlaE': 1}
+RUNX1 positive {'TLT-1': 1}
+RUNX1 negative {}
+CDT positive {'TcdA': 1, 'TcdB': 1}
+CDT negative {}
+ermL positive {'ermB': 1}
+ermL negative {}
+LAB positive {'TNFα': 1, 'IL6': 1, 'MCP‐1': 1}
+LAB negative {}
+HBP positive {'IL-8': 1}
+HBP negative {}
+HisB positive {'L-histidine': 1}
+HisB negative {}
+DptR1 positive {}
+DptR1 negative {'DptR2': 1, 'DptR3': 1}
+AtrA positive {'dptE': 1}
+AtrA negative {}
+AgrA positive {'agr': 2}
+AgrA negative {'BsaA': 2}
+CoA positive {'AgrA': 1}
+CoA negative {}
+tcdC positive {}
+tcdC negative {'tcdC': 1}
+aroF positive {}
+aroF negative {'bglF': 1, 'bglF1': 1, 'bglG3': 1, 'bglG4': 1}
+MCPA positive {}
+MCPA negative {'2-OG': 1}
+HipA positive {'glutamyl tRNA synthetase': 1}
+HipA negative {'glutamyl tRNA synthetase': 1}
+HipA1 positive {'TrpS': 1, 'GltX': 1}
+HipA1 negative {}
+NucA positive {'ComEA': 1}
+NucA negative {}
+RNAP-SigA positive {'Pmob1': 1, 'Pmob2': 1}
+RNAP-SigA negative {}
+marA positive {'ompF': 1}
+marA negative {}
+AdeR positive {'AdeABC': 1}
+AdeR negative {}
+Crc positive {'Plt': 1, 'cyoA–E': 1, 'prn': 1, 'hcn': 1, 'pcaK': 2, 'yiiM': 1, 'crcY': 1, 'crcZ': 1}
+Crc negative {'pcaK': 2, 'ped': 1, 'pqq': 1, 'crcZ': 1, 'crcY': 1, 'benR': 1}
+hcnABC positive {'Prn': 1, 'HCN': 1}
+hcnABC negative {}
+crc positive {'lacZ': 1, 'crcZ': 1, 'crcY': 1}
+crc negative {}
+hfq positive {'crcZ': 1, 'crcY': 1, 'pcoI': 1}
+hfq negative {'lacZ': 1}
+CbrB positive {'crcZ': 3, 'crcY': 1, 'crcZ/Y': 2}
+CbrB negative {'crcZ': 1, 'crcY': 1}
+colistin positive {'colistin': 2, 'trbBp': 2, 'mcr-10': 1}
+colistin negative {'korB': 2, 'trbA': 2, 'Heath Shock Protein (HSP) 70': 1, 'metallothionein (MT': 1}
+CrrC positive {'pmrC': 1}
+CrrC negative {}
+CrrB positive {'phoP': 1, 'phoQ': 1}
+CrrB negative {}
+CrrA positive {'kexD': 1}
+CrrA negative {}
+lgt positive {'thyA': 1}
+lgt negative {}
+Lgt positive {'G3P': 1}
+Lgt negative {'thyA': 1}
+tetR positive {'tetA(G)': 1}
+tetR negative {'murA': 1}
+AcrS positive {}
+AcrS negative {'acrAB': 1}
+ErsA positive {'AmrZ': 1, 'OprD': 1}
+ErsA negative {'algC': 1}
+AlgR positive {'AlgC': 1, 'EspA': 1, 'mgtE': 1}
+AlgR negative {}
+AlgU/T positive {'AlgC': 1}
+AlgU/T negative {}
+ReaL positive {'pqsC': 1}
+ReaL negative {'rpoS': 1}
+RgsA positive {}
+RgsA negative {'fis': 1, 'acpP': 1, 'Fis': 2, 'AcpP': 2}
+PhrS positive {'pqsR': 1}
+PhrS negative {}
+AmrZ positive {}
+AmrZ negative {'wzz2': 2}
+ExsA positive {}
+ExsA negative {'wbpA': 1, 'wbpH': 1}
+AlgU positive {'rsmA': 1, 'amrZ': 1, 'algD': 1}
+AlgU negative {}
+LadS positive {'GacS': 1}
+LadS negative {}
+HptB positive {'RsmY': 1}
+HptB negative {'rsmZ': 1}
+SuhB positive {}
+SuhB negative {'RsmY': 1, 'RsmZ': 1, 'gacA': 1}
+RsmA positive {'RsmY': 1, 'RsmZ': 1, 'rsmZ': 2, 'rsmY': 2, 'RsmA': 1}
+RsmA negative {'RsmY': 1, 'RsmZ': 1, 'C4HSL': 1}
+IdeR positive {'bfr': 1}
+IdeR negative {'IdeR': 1, 'Lsr2': 1}
+ramR positive {'ramA': 1}
+ramR negative {'ramA': 1, 'romA': 1}
+SrpA positive {'bsrA': 2}
+SrpA negative {}
+BsrA positive {'BsrA': 1, 'exaC': 1, 'succinyl-CoA/acetate CoA-transferase': 1}
+BsrA negative {'mqoA': 1, 'mqoB': 1, 'succinyl-CoA/acetate CoA-transferase': 1}
+CbrA positive {'crcZ': 2}
+CbrA negative {}
+Apc10 positive {'Apc2': 1}
+Apc10 negative {}
+CrtR positive {}
+CrtR negative {'crtE': 1}
+MBL positive {}
+MBL negative {'PCA': 1}
+darA positive {'darobactin': 1}
+darA negative {}
+darE positive {'darobactin': 1}
+darE negative {}
+BIQ positive {'granaticin': 1, 'alnumycin': 1, 'qinimycin': 1}
+BIQ negative {}
+Med‐ORF10 positive {'MED': 4, 'med‐ORF12': 1, 'Med‐ORF12': 2, 'Med‐ORF29': 2}
+Med‐ORF10 negative {}
+med‐ORF10 positive {}
+med‐ORF10 negative {'med‐ORF12': 1}
+ActVI‐ORFA positive {'ActVI‐ORF1': 1, 'ActII‐ORF4': 1}
+ActVI‐ORFA negative {}
+Pgc1α positive {'Sod2': 1, 'Sod': 1}
+Pgc1α negative {}
+RobA positive {'acrAB': 2}
+RobA negative {}
+RNase E positive {'ftsA': 1, 'ftsz': 1}
+RNase E negative {}
+Cvn8 positive {'lan': 1}
+Cvn8 negative {'lan': 1}
+CvnC positive {}
+CvnC negative {'lan': 1}
+mreB positive {'gfp': 1}
+mreB negative {}
+ugpQ positive {'mecA': 1}
+ugpQ negative {}
+PRKAR2A positive {'PDE4': 1, 'STAT3': 1}
+PRKAR2A negative {}
+IFN-β positive {'STAT3': 1}
+IFN-β negative {}
+IFN-α positive {'IFN-α': 2, 'STAT3': 1}
+IFN-α negative {}
+type I IFN positive {'STAT3': 5}
+type I IFN negative {}
+tumor necrosis factor-α positive {'STAT3': 1}
+tumor necrosis factor-α negative {}
+CadR positive {'CadA': 1}
+CadR negative {}
+PcnR positive {'mcr-1': 1}
+PcnR negative {'mcr-1': 1}
+IL-17B positive {'TNF-α': 1, 'IL-1β': 1}
+IL-17B negative {}
+IL-17C positive {'TNF-α': 1, 'IL-1β': 1}
+IL-17C negative {}
+LmrA positive {}
+LmrA negative {'LmrC': 1, 'lmrC': 3}
+LmrB positive {}
+LmrB negative {'LmrC': 1, 'lmrC': 3}
+LmrC positive {'lmbU': 2, 'lmbN': 1}
+LmrC negative {}
+AdpA positive {'lmrC': 1, 'lmbU': 1, 'daptomycin': 1, 'atrA': 1}
+AdpA negative {'adpA': 1}
+LSAP positive {'lmrC': 1}
+LSAP negative {}
+AcrTSa positive {}
+AcrTSa negative {'avermectin B1a': 1, 'aveA1': 1}
+sbnA positive {}
+sbnA negative {'staphyloferrin B': 1}
+GraXRS positive {}
+GraXRS negative {'mprF': 1}
+NWAF26R positive {'WTA': 1}
+NWAF26R negative {}
+ERY positive {'cys': 2}
+ERY negative {'cysH': 2, 'cysIJ': 1, 'cys': 1}
+ChaB positive {'ChaA': 1}
+ChaB negative {}
+AlpA positive {'alpBCDE': 1}
+AlpA negative {}
+AlpR positive {}
+AlpR negative {'alpBCDE': 1}
+PrtN positive {'pyocin': 3}
+PrtN negative {'pyocin': 3}
+YafQ positive {}
+YafQ negative {'rpoS': 1}
+Colistin positive {'phoQ': 1}
+Colistin negative {}
+Jak-STAT positive {'attacin': 1}
+Jak-STAT negative {}
+EOA positive {}
+EOA negative {'ZO-1': 1, 'occludin': 1}
+TasA positive {'bacillaene': 1, 'pks': 1}
+TasA negative {}
+xerC positive {'mcr-10': 1}
+xerC negative {}
+AMPK positive {'p300': 1}
+AMPK negative {}
+PBP4 positive {'ampC': 1}
+PBP4 negative {}
+NfxB positive {'mexCDoprJ': 1}
+NfxB negative {}
+A8-1 positive {'IL-10': 1, 'TNF-α': 1}
+A8-1 negative {'IL-8': 1, 'TNF-α': 1}
+cfrX positive {'sigX': 1}
+cfrX negative {}
+cds10 positive {'pilX': 1}
+cds10 negative {}
+pixR positive {'pilX3-4': 1, 'pilX11': 1, 'taxB': 1, 'trbM': 1}
+pixR negative {}
+opsin positive {'LacZ': 2}
+opsin negative {}
+GFAP positive {'TH': 1}
+GFAP negative {}
+PtetR positive {'Rluc8': 1}
+PtetR negative {}
+mcr-1 positive {'eptB': 2}
+mcr-1 negative {}
+σP positive {'peptidoglycan hydrolase': 1, 'pbpP': 2, 'lacZ': 1, 'RsiP': 1}
+σP negative {}
+pbpN positive {'pbpM': 1}
+pbpN negative {}
+dacC positive {'pbpM': 1}
+dacC negative {}
+BlaRI positive {'blaZ': 1}
+BlaRI negative {}
+pmrCAB positive {'PEtN': 1, 'L-Ara4N': 1}
+pmrCAB negative {}
+arnBCADTEF positive {'PEtN': 1, 'L-Ara4N': 1}
+arnBCADTEF negative {}
+miR-21 positive {'TLR8': 1, 'IFN-γ': 1, 'TNF-α': 1, 'IL-12': 1, 'TLR-8': 1}
+miR-21 negative {}
+fsr positive {}
+fsr negative {'esp': 1, 'ebpA': 1}
+MYC positive {'EZH2': 1, 'miR-26a': 1}
+MYC negative {}
+miR-26a positive {'MYC': 1}
+miR-26a negative {}
+Dxr positive {'soxS': 1, 'entB': 1, 'rcsA': 1, 'hdeA': 1, 'narH': 1, 'marRAB': 1}
+Dxr negative {}
+psaR positive {'PcpA': 1}
+psaR negative {}
+PbpP positive {'RsiP': 3, 'SipP': 1}
+PbpP negative {}
+rsiPS84A positive {'PsigP': 2, 'lacZ': 2}
+rsiPS84A negative {}
+SipX positive {'PsigP': 1, 'lacZ': 1}
+SipX negative {'lacZ': 2}
+SipP positive {'PsigP': 1, 'lacZ': 1, 'RsiP': 2}
+SipP negative {}
+sipP positive {'PsigP': 1, 'lacZ': 1}
+sipP negative {}
+pbpP positive {}
+pbpP negative {'PsigP': 1, 'lacZ': 1}
+adeR positive {'adeABC': 1}
+adeR negative {}
+adeS positive {'adeABC': 1}
+adeS negative {}
+adeL positive {'adeFGH': 1, 'adeIJK': 1}
+adeL negative {}
+adeN positive {'adeFGH': 1, 'adeIJK': 1}
+adeN negative {}
+secretin positive {'insulin': 1}
+secretin negative {}
+CcaR positive {'CcaR': 2, 'claR': 1}
+CcaR negative {}
+orf21 positive {'ccaR': 1, 'claR': 1, 'adpA': 1, 'SCLAV_4359': 1, 'orf21': 1, 'gcas': 1}
+orf21 negative {}
+ORF21 positive {'CA': 1, 'claR': 2}
+ORF21 negative {}
+tst positive {'TSST-1': 2}
+tst negative {}
+integrin αvβ3 positive {'PD-L1': 2}
+integrin αvβ3 negative {}
+T4 positive {'PD-L1': 2}
+T4 negative {}
+ERK1 positive {'PD-L1': 1}
+ERK1 negative {}
+2 positive {'PD-L1': 1}
+2 negative {}
+CHO1 positive {'CDP-diacylglycerol-serine O-phosphatidyltransferase': 2, 'malate dehydrogenase': 2, 'UNG': 1}
+CHO1 negative {}
+glxK positive {'malate dehydrogenase': 1}
+glxK negative {}
+pssA positive {'malate dehydrogenase': 1}
+pssA negative {}
+mdh positive {'CDP-diacylglycerol-serine O-phosphatidyltransferase': 1, 'malate dehydrogenase': 1, 'UNG': 1}
+mdh negative {}
+Udg positive {'UNG': 1}
+Udg negative {}
+COX-2 positive {'HDP': 1}
+COX-2 negative {}
+C/EBPα positive {'HDP': 1}
+C/EBPα negative {}
+Aur1P positive {'aur1Ap': 1}
+Aur1P negative {'aur1Ap': 1, 'aur1': 1}
+GBL synthase positive {'GBL': 2}
+GBL synthase negative {}
+GBL receptor positive {'GBL': 2}
+GBL receptor negative {}
+aur1P positive {}
+aur1P negative {'aur1P': 1}
+aur1Ap positive {}
+aur1Ap negative {'aur1A': 1}
+Aur1O positive {'aur1Ap': 1}
+Aur1O negative {'aur1Ap': 1}
+TylU positive {'TylS': 1, 'tylR': 1, 'tylosin': 1}
+TylU negative {}
+ovmW positive {'oviedomycin': 1}
+ovmW negative {}
+mepR positive {'mepA': 1}
+mepR negative {}
+MacA positive {'MacB': 1}
+MacA negative {}
+pfs positive {'AI-2': 1}
+pfs negative {}
+EspR positive {'EspA': 1}
+EspR negative {}
+GRN positive {'ramR': 3}
+GRN negative {}
+envR positive {'acrEF': 4}
+envR negative {'acrEF': 1}
+P-VanR positive {'msrC': 1}
+P-VanR negative {}
+QseC positive {'QseB': 1}
+QseC negative {}
+TisB positive {}
+TisB negative {'lactose': 1}
+ColM positive {'ColM': 1}
+ColM negative {}
+gdhR6 positive {'lctP': 1}
+gdhR6 negative {}
+cwp66 positive {'d-Alanine-d-Alanine ligase': 2}
+cwp66 negative {}
+trbA positive {}
+trbA negative {'trbBp': 1, 'korB': 1, 'trbA': 1}
+Bnr1 positive {'PixA': 1}
+Bnr1 negative {}
+Dox positive {'tusB': 1, 'osmB': 1}
+Dox negative {'tusB': 1}
+EnvZ positive {'osmB': 2, 'ompF': 2}
+EnvZ negative {}
+FabD positive {'surfactin': 1}
+FabD negative {}
+FepR positive {'FepR': 1}
+FepR negative {}
+walRK positive {'pcsB': 1}
+walRK negative {}
+tatA positive {'Tat': 1}
+tatA negative {}
+tatB positive {'Tat': 1}
+tatB negative {}
+tatC positive {'Tat': 1}
+tatC negative {}
+SsgR positive {'ssgA': 1}
+SsgR negative {}
+Gbn positive {'SCOt23': 2, 'actII-ORF4': 1}
+Gbn negative {}
+BlsA positive {}
+BlsA negative {'paa': 1}
+Gsk positive {'ADG-MP': 1}
+Gsk negative {}
+Lrp positive {'Lrp': 4, 'livK': 1, 'trxB': 1, 'StpA': 1, 'PapR': 1, 'TosA': 1, 'fimA': 1, 'flhDC': 1, 'yojI': 2}
+Lrp negative {'micF': 1, 'metK': 1, 'gltBDF': 1, 'IHF': 1, 'CRP': 1, 'ArgR': 1, 'ilvIH': 1, 'pili': 1, 'papBA': 2}
+GadE positive {'lrp': 3, 'gadA': 1, 'gadB': 1, 'gadC': 1, 'hdeAB': 1, 'hdeD': 1, 'ydeP': 1}
+GadE negative {}
+ArgR-Arg positive {}
+ArgR-Arg negative {'Lrp': 1, 'lrp': 1}
+GcvB positive {}
+GcvB negative {'lrp': 1}
+DsrA positive {}
+DsrA negative {'lrp': 1}
+FFRP positive {'FFRP': 1}
+FFRP negative {}
+PapI positive {'papBA': 1}
+PapI negative {}
+SSP_Lrp positive {}
+SSP_Lrp negative {'SSP_Lrp': 1}
+PapR positive {'papI': 1}
+PapR negative {}
+TosR positive {'TosA': 1}
+TosR negative {}
+FimZ positive {'Lrp': 1, 'fimA': 1}
+FimZ negative {}
+HapR positive {}
+HapR negative {'Lrp': 2, 'VpsR': 2}
+PrrA positive {}
+PrrA negative {'PrrT': 1}
+HigB toxin positive {}
+HigB toxin negative {'pyochelin': 1, 'pyocyanin': 1}
+CiaRH positive {'satAB': 1}
+CiaRH negative {'SatAB': 2, 'satAB': 1}
+SatR positive {'satAB': 1}
+SatR negative {'SatAB': 1, 'satAB': 3}
+CpxAR positive {}
+CpxAR negative {'OmpF porin': 1}
+SmeSyRy positive {}
+SmeSyRy negative {'SmeYZ': 1}
+CiaH positive {'CiaR': 1}
+CiaH negative {}
+satR positive {'satAB': 1}
+satR negative {}
+LIPI-1 positive {}
+LIPI-1 negative {'actA': 1, 'hly': 1, 'iap': 1, 'plcB': 1, 'plcA': 1, 'prfA': 1, 'mpl': 1}
+VirB4 positive {'VirB3': 1}
+VirB4 negative {}
+VirB7 positive {'VirB3': 1}
+VirB7 negative {}
+VirB8 positive {'VirB3': 1}
+VirB8 negative {}
+pgsB positive {'γ-PGA': 1}
+pgsB negative {}
+Lut positive {'vfr': 2, 'lasB': 4, 'LasB elastase': 1, 'rhlA': 4, 'aceA': 1, 'lasR/I': 1, 'rhlR/I': 1, 'gacA': 1, 'Vfr': 1}
+Lut negative {'vfr': 6, 'gacA': 1, 'lasB': 1, 'rhlA': 1, 'lasR/I': 1, 'rhlR/I': 1}
+Vfr positive {}
+Vfr negative {'type IV pili': 1}
+pyocyanin positive {'eDNA': 1}
+pyocyanin negative {}
+CrcZ positive {}
+CrcZ negative {'Hfq': 1}
+RpoN positive {'CrcZ': 1, 'NrsZ': 1}
+RpoN negative {}
+IncC relaxase positive {'SGI1': 1}
+IncC relaxase negative {}
+FMO3 positive {'TMAO': 1}
+FMO3 negative {}
+SpdC positive {'gamma-hemolysin': 1}
+SpdC negative {}
+RsmY positive {}
+RsmY negative {'rsmY': 1, 'rsmZ': 1}
+RsmZ positive {}
+RsmZ negative {'rsmY': 1, 'rsmZ': 1}
+NarL positive {'RsmY': 1, 'RsmZ': 1}
+NarL negative {}
+BswR positive {'RsmZ': 1}
+BswR negative {}
+NrsZ positive {'rhlA': 1}
+NrsZ negative {}
+σ22 positive {}
+σ22 negative {'ErsA': 1}
+caerulomycin A positive {'BGC': 1}
+caerulomycin A negative {}
+cpr1 positive {'cydAB': 1}
+cpr1 negative {}
+I88 positive {'SafA': 1}
+I88 negative {}
+Pbp2b positive {}
+Pbp2b negative {'Pbp2b': 1}
+ATc positive {}
+ATc negative {'nXCas9': 1, 'PolA3MTB': 1}
+CYP4F2 positive {}
+CYP4F2 negative {'20-HETE': 2}
+CYP4A11 positive {}
+CYP4A11 negative {'20-HETE': 1}
+GPR4 receptor positive {'IL-18': 1}
+GPR4 receptor negative {}
+CsgD positive {'CsgD': 1}
+CsgD negative {}
+csgDEFG positive {'CsgD': 1, 'csgBAC': 1, 'curli': 1}
+csgDEFG negative {}
+EGR1 positive {'circNDRG1': 1, 'NDRG1': 1}
+EGR1 negative {}
+circNDRG1 positive {'smad7': 2}
+circNDRG1 negative {}
+PgaA positive {'glycoside hydrolase': 1}
+PgaA negative {}
+qseBC positive {'mcr-9': 1}
+qseBC negative {}
+DptR2 positive {'dpt': 1}
+DptR2 negative {}
+ScbR2 positive {}
+ScbR2 negative {'adpA': 1}
+ArpA positive {'adpA': 1}
+ArpA negative {'adpA': 1}
+HrcA positive {}
+HrcA negative {'groES': 1, 'groEL': 1}
+RacRS positive {}
+RacRS negative {'cj1384c': 1}
+RrpB positive {}
+RrpB negative {'katA': 1, 'perR': 1}
+C3G positive {'claudin-1': 1, 'ZO-1': 1}
+C3G negative {'TNF-α': 1}
+RR09 positive {}
+RR09 negative {'ply': 1}
+ZomB positive {'ply': 3, 'ZomB': 1}
+ZomB negative {}
+TcdC positive {}
+TcdC negative {'TcdA': 1, 'TcdB': 1}
+abm positive {'chloramphenicol': 1}
+abm negative {}
+OhrR positive {}
+OhrR negative {'OhrR': 1}
+PaOhrR positive {}
+PaOhrR negative {'mKate': 1}
+RnaG positive {}
+RnaG negative {'icsA': 1}
+ArcB positive {'ArcA': 1}
+ArcB negative {}
+Fnr positive {'feo': 1}
+Fnr negative {}
+EvgA positive {'gadA': 1, 'gadB': 1, 'gadC': 1, 'hdeAB': 1, 'hdeD': 1, 'ydeP': 1}
+EvgA negative {}
+YdeO positive {'gadA': 1, 'gadB': 1, 'gadC': 1, 'hdeAB': 1, 'hdeD': 1, 'ydeP': 1}
+YdeO negative {}
+EvgS positive {'gadA': 1, 'gadB': 1, 'gadC': 1, 'MdtEF': 1}
+EvgS negative {}
+SafA positive {'PhoQ': 1}
+SafA negative {}
+DP4 positive {'DP5': 1}
+DP4 negative {}
+ECF sigma factor positive {'OprF': 1}
+ECF sigma factor negative {}
+tylR positive {'tylosin': 1}
+tylR negative {}
+ssmA positive {'Act': 2, 'nystatin': 1}
+ssmA negative {}
+TrxR positive {'glucocorticoid receptor': 2}
+TrxR negative {}
+HER-3 positive {}
+HER-3 negative {'HER-2': 2, 'HER-3': 1}
+BarX positive {'BarA': 1}
+BarX negative {}
+Pf-5 positive {'Lon': 1}
+Pf-5 negative {}
+L11 positive {}
+L11 negative {'sigma(B)': 1}
+txeR positive {'tox': 5}
+txeR negative {}
+MATH20 positive {}
+MATH20 negative {'histone H1': 1}
+orf7.5 positive {}
+orf7.5 negative {'groESL': 1}
+FadR positive {'fabA': 1, 'fabB': 2}
+FadR negative {'fad': 1}
+cat positive {'acetyltransferase': 1}
+cat negative {'sly': 1}
+sigmaB positive {}
+sigmaB negative {'catBp': 1, 'catalase B': 1}
+gidA positive {}
+gidA negative {'salA': 1}
+tylS positive {'tylosin': 1, 'tylR': 1}
+tylS negative {}
+tylT positive {'tylosin': 1}
+tylT negative {}
+TylP positive {'tylosin': 1}
+TylP negative {'tylS': 1}
+sigma(M) positive {}
+sigma(M) negative {'bcrC': 1}
+sigma(X) positive {'ywoA': 1}
+sigma(X) negative {'bcrC': 1}
+rpoZ positive {'kasugamycin': 1}
+rpoZ negative {}
+MppA positive {'marA': 2}
+MppA negative {'marA': 2}
+oprD positive {'OprD': 1}
+oprD negative {}
+sigmaM positive {'bcrC': 2}
+sigmaM negative {}
+sigmaX positive {'bcrC': 2}
+sigmaX negative {}
+colicin M positive {'ton B': 1}
+colicin M negative {}
+HpaA positive {'aph(3&#x27;)-IIb': 1}
+HpaA negative {}
+protein kinase A positive {}
+protein kinase A negative {'laeA': 1}
+RasA positive {}
+RasA negative {'laeA': 1}
+srmR positive {'srmX': 1, 'srmR': 1}
+srmR negative {}
+mdr1 positive {'GPFX': 1}
+mdr1 negative {}
+bcr-abl positive {'bcr-abl': 1}
+bcr-abl negative {}
+bldG positive {'ccaR': 2}
+bldG negative {}
+cidR positive {'cidABC': 2}
+cidR negative {}
+cidABC positive {'cidABC': 1}
+cidABC negative {}
+pyoluteorin positive {'pyoluteorin': 1}
+pyoluteorin negative {}
+IL-1beta positive {'hBD-2': 3}
+IL-1beta negative {}
+CidR positive {'cidABC': 3, 'lrgAB': 1}
+CidR negative {}
+Plt positive {'Plt': 1, 'pltHIJKN': 2}
+Plt negative {}
+Spc1 positive {'Pmp3': 1}
+Spc1 negative {}
+Atf1 positive {'Pmp3': 1}
+Atf1 negative {}
+lpxC positive {'LpxC': 1}
+lpxC negative {}
+EshA positive {}
+EshA negative {'ppGpp': 2}
+tsx positive {'albicidin': 1}
+tsx negative {}
+LipR positive {'lipase': 1, 'lipA': 1}
+LipR negative {}
+tumor necrosis factor-alpha positive {'MMP-9': 2, 'matrix metalloproteinase-1': 1}
+tumor necrosis factor-alpha negative {}
+E1A positive {'intercellular adhesion molecule-1': 1, 'interleukin-8': 1}
+E1A negative {}
+TNF-alpha positive {'MMP-1': 3, 'TNF-alpha': 1}
+TNF-alpha negative {}
+Lf positive {}
+Lf negative {'beta-lactamase': 1}
+BldR positive {}
+BldR negative {'Sso2536': 2}
+p67-phox positive {'NI4DPH oxidase': 1}
+p67-phox negative {}
+sigmaE positive {'SmpA': 1}
+sigmaE negative {}
+RIPK2 positive {'IL-10': 1}
+RIPK2 negative {}
+FdmR1 positive {'fdmR': 1, 'fdmT2': 1}
+FdmR1 negative {}
+HO-1 positive {'Hax-1': 1}
+HO-1 negative {}
+RegA positive {}
+RegA negative {'friulimicin': 2}
+vmsR positive {'vmsS': 1, 'vmsT': 1}
+vmsR negative {}
+CK4412 positive {'tmcN': 1}
+CK4412 negative {}
+RteR positive {'tra': 1}
+RteR negative {}
+irvR positive {}
+irvR negative {'irvA': 1}
+Fap1 positive {}
+Fap1 negative {'Fpr1': 1}
+LfrR positive {}
+LfrR negative {'LfrA': 1}
+RAP positive {}
+RAP negative {'TRAP': 1}
+polY positive {'polR': 1}
+polY negative {}
+soxS positive {'soxS': 1}
+soxS negative {}
+LpqB positive {'MtrA': 1}
+LpqB negative {}
+GB positive {'SARP': 1}
+GB negative {}
+Aur1R positive {'auricin': 1}
+Aur1R negative {'aur1': 1}
+RteAB positive {'Mob': 1}
+RteAB negative {}
+brpAp1 positive {'brpA': 1}
+brpAp1 negative {}
+brpAp2 positive {'brpA': 1}
+brpAp2 negative {}
+AbeR positive {'abeBCD': 2}
+AbeR negative {}
+CefD1 positive {'PenN': 1}
+CefD1 negative {}
+acetyltransferase positive {'acetyltransferase': 1}
+acetyltransferase negative {}
+RelQ positive {'RelP': 1}
+RelQ negative {}
+RcrR positive {}
+RcrR negative {'rcrRPQ': 1}
+RelP positive {'rcrPQ': 1}
+RelP negative {}
+cat-86 positive {}
+cat-86 negative {'crb-86': 1}
+AfsR positive {}
+AfsR negative {'afsS': 1}
+SimR positive {}
+SimR negative {'SimX': 2}
+ClpL positive {}
+ClpL negative {'pbp2x': 1}
+MccE acetyltransferase positive {}
+MccE acetyltransferase negative {'microcin C7': 1}
+AvaR3 positive {}
+AvaR3 negative {'filipin': 1}
+IHF positive {'LexA': 3}
+IHF negative {}
+penicillin G positive {'slpA': 1}
+penicillin G negative {}
+AgmR positive {'pqq': 1}
+AgmR negative {}
+ScoC (Hpr positive {}
+ScoC (Hpr negative {'bacA': 1}
+ScoC (Hpr) positive {}
+ScoC (Hpr) negative {'bacA': 1}
+OsCOMT1 positive {'sakuranetin': 1}
+OsCOMT1 negative {}
+GSK-3β positive {'iNOS': 1, 'COX-2': 1}
+GSK-3β negative {}
+AfsQ1 positive {'sigQ': 1}
+AfsQ1 negative {}
+ISBf6 positive {'nimE': 1}
+ISBf6 negative {}
+TehRVc positive {'tehAVc': 1}
+TehRVc negative {}
+DcsD positive {'L-cysteine': 1}
+DcsD negative {}
+ECO-orf4 positive {'ECO-0501': 2}
+ECO-orf4 negative {}
+CsrA positive {}
+CsrA negative {'CsrD': 1}
+GouR positive {'gouM': 1, 'gougerotin': 2}
+GouR negative {'gougerotin': 1}
+TAP positive {'IL6': 1}
+TAP negative {}
+metK positive {'bacilysin': 1}
+metK negative {}
+Aurora B positive {'Bub1': 1}
+Aurora B negative {}
+wblApau positive {}
+wblApau negative {'NPP': 2}
+RI20 positive {}
+RI20 negative {'Hfq': 1}
+SigE positive {'SigG': 1}
+SigE negative {}
+IM-2 positive {'IM-2': 1}
+IM-2 negative {}
+farX positive {'IM-2': 1}
+farX negative {}
+TamR positive {'tamR': 1, 'TamR': 1}
+TamR negative {}
+abrB positive {}
+abrB negative {'tycA': 1, 'tyrocidine synthetase I': 1}
+API2 positive {'LIMA1': 1}
+API2 negative {}
+CpxRA positive {'HlyA': 1}
+CpxRA negative {}
+YeaM positive {'yeaM': 1}
+YeaM negative {}
+mrcA positive {'blaA': 1}
+mrcA negative {}
+PaaR positive {'paa': 1}
+PaaR negative {}
+ARI-A positive {'blaCMY-2': 1}
+ARI-A negative {}
+AtrA-p positive {'spbR': 1, 'papR5': 1}
+AtrA-p negative {}
+Dbv3 positive {'dbv4': 2}
+Dbv3 negative {}
+ICEBs1 positive {'ConE': 1, 'ConE-GFP': 1}
+ICEBs1 negative {}
+int1 positive {'sul1': 1}
+int1 negative {}
+Ty_c2 positive {}
+Ty_c2 negative {'tviA': 1}
+CFA positive {}
+CFA negative {'mecA': 1, 'PBP2a': 2}
+SdsR positive {}
+SdsR negative {'tolC': 1}
+AvaR2 positive {}
+AvaR2 negative {'aveR': 1}
+gossypin positive {}
+gossypin negative {'TNF-α': 1, 'IL-6': 1}
+GlnR positive {'lmrA': 2}
+GlnR negative {}
+crp positive {'PhlA': 1}
+crp negative {}
+fliJ positive {'PhlA': 1}
+fliJ negative {}
+AcareB positive {'AcareA': 1}
+AcareB negative {}
+2,4-DAPG positive {'PhlG': 1}
+2,4-DAPG negative {}
+SalB positive {'SalB': 1}
+SalB negative {}
+NosP positive {}
+NosP negative {'nosiheptide': 2}
+larR positive {'larR': 2}
+larR negative {}
+sigX positive {'oprF': 2, 'PhlA': 1, 'PhlD': 1}
+sigX negative {}
+sawR positive {}
+sawR negative {'hmgA': 1}
+BulZ positive {'bulZ': 1, 'bulS2': 1, 'tcs7': 1, 'fkbN': 1, 'GBL receptor': 1, 'bulR1': 1}
+BulZ negative {}
+PhaR positive {}
+PhaR negative {'phaR': 3}
+DnaA positive {}
+DnaA negative {'qnrS1': 1}
+GyrA positive {}
+GyrA negative {'qnrS1': 1}
+IhfA positive {}
+IhfA negative {'qnrS1': 1}
+IhfB positive {}
+IhfB negative {'qnrS1': 1}
+dnaA positive {'qnrS1': 1}
+dnaA negative {}
+acrR positive {'acrA': 1, 'acrB': 1}
+acrR negative {}
+staI positive {'A47934': 2}
+staI negative {}
+tycA positive {'tycA': 1}
+tycA negative {}
+V-ATPase C positive {'Sh ble': 1}
+V-ATPase C negative {}
+OstR positive {'emrB': 3}
+OstR negative {}
+fosA positive {'FosA': 2, 'FOM': 2}
+fosA negative {}
+NemR positive {'nemadectin': 2, 'nemA1-1': 1, 'nemC': 1, 'nemA4': 1, 'nemG': 1, 'nemF': 1}
+NemR negative {}
+galM positive {}
+galM negative {'cas': 1}
+HtrA positive {'ComEA': 1, 'ComEC': 1}
+HtrA negative {}
+OtrR positive {'OtrB': 1}
+OtrR negative {}
+miR-431 positive {'MDR1': 1}
+miR-431 negative {}
+MsaB positive {'crtOPQMN': 1, 'staphyloxanthin': 3}
+MsaB negative {}
+HbhR positive {'hbhA': 1}
+HbhR negative {'hbhA': 1}
+BldDsav positive {'avermectin': 1}
+BldDsav negative {}
+CarR positive {'ncgl2882': 1, 'ncgl2884': 1, 'PSO': 1}
+CarR negative {}
+SgSrnR positive {'Ni-SOD': 1, 'FeZn-SOD': 1}
+SgSrnR negative {}
+SgSrnQ positive {'Ni-SOD': 1, 'FeZn-SOD': 1}
+SgSrnQ negative {}
+EstR positive {'estB': 1}
+EstR negative {}
+rok positive {'myxovirescin A': 1}
+rok negative {}
+RED positive {'RED': 1, 'CDA': 1}
+RED negative {}
+CDA positive {'RED': 1, 'CDA': 1}
+CDA negative {}
+ORF4 positive {'RED': 1, 'CDA': 1, 'actinorhodin': 2}
+ORF4 negative {}
+cdaR positive {'RED': 1, 'CDA': 1}
+cdaR negative {}
+cpxP positive {}
+cpxP negative {'CpxR': 1, 'CpxP': 1}
+tpsA positive {'tpsB2': 1}
+tpsA negative {}
+EpsR positive {}
+EpsR negative {'gtfB': 3}
+SACE_Lrp positive {}
+SACE_Lrp negative {'marR': 1}
+mgrb positive {}
+mgrb negative {'phoPQ': 1}
+PhzI positive {'PCN': 1}
+PhzI negative {'PCN': 1}
+AdcR positive {}
+AdcR negative {'adcR': 1, 'adcC': 1, 'adcB': 1, 'adcA': 1}
+RamB positive {'icl1': 1}
+RamB negative {}
+Crp1 positive {}
+Crp1 negative {'icl1': 1}
+marR positive {}
+marR negative {'arsV': 1}
+C/N16 1 positive {'lysozyme': 1, 'glycosyl hydrolase': 1}
+C/N16 1 negative {}
+Lon positive {'Plt': 1}
+Lon negative {}
+RpoE7 positive {'lytic transglycosylase': 1, 'rpoE7': 1, 'ltg1': 1, 'rpoH3': 1}
+RpoE7 negative {'bla1': 1, 'β-lactamase': 1}
+RpoH3 positive {}
+RpoH3 negative {'β-lactamase': 1}
+ArsR positive {}
+ArsR negative {'arsZ': 1, 'arsR': 1, 'arsK': 1}
+PrsA positive {'GelE': 1}
+PrsA negative {}
+vmeCD positive {'vmeCD': 2}
+vmeCD negative {}
+vp0040 positive {'vmeCD': 2}
+vp0040 negative {}
+SigA positive {'rppA': 3}
+SigA negative {}
+RecT positive {}
+RecT negative {'pg40': 1}
+soxRS positive {'micF': 1}
+soxRS negative {'inaA': 1}
+Ble positive {'aidC': 1}
+Ble negative {}
+NFAT-1 positive {'IL-2': 1}
+NFAT-1 negative {}
+IL-2 positive {'IL-2': 2}
+IL-2 negative {}
+mry positive {'mry': 1, 'M': 1}
+mry negative {}
+HrdA positive {'Pptr': 1}
+HrdA negative {}
+HrdC positive {'Pptr': 1}
+HrdC negative {}
+HrdD positive {'Pptr': 1}
+HrdD negative {}
+phzI positive {'PH': 1}
+phzI negative {}
+tfuA positive {'TFX': 1, 'tfxA': 1}
+tfuA negative {}
+nfxB positive {}
+nfxB negative {'mexC': 1}
+MexR positive {}
+MexR negative {'mexA': 1, 'oprM': 1}
+NF-kappaB-HMG-I(Y) positive {'E-selectin': 1}
+NF-kappaB-HMG-I(Y) negative {}
+HMG-I(Y) positive {'E-selectin': 1}
+HMG-I(Y) negative {}
+colicin A positive {'colicin A': 1}
+colicin A negative {}
+cal positive {'colicin A': 2}
+cal negative {}
+psr3r positive {'PBP3r': 1}
+psr3r negative {}
+AarG positive {}
+AarG negative {'2&#x27;-N-acetyltransferase': 1}
+aarG1 positive {}
+aarG1 negative {'aac(2&#x27;)-Ia': 1}
+sigmaH positive {}
+sigmaH negative {'spo0M': 1}

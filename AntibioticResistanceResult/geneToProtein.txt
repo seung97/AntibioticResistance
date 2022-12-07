@@ -1,0 +1,86 @@
+PmrA positive {'pmrD': 1, 'pmr': 1, 'lpxT': 1, 'pmrR': 2, 'pbgP': 1, 'pmrC': 3, 'ybjG': 1, 'pmrCAB': 1}
+PmrA negative {'pmrD': 1, 'lpxT': 1, 'rsmY': 2, 'RsmY': 1, 'RsmZ': 1}
+H-NS positive {'acrEF': 1, 'Lrp': 1}
+H-NS negative {'lsr2': 1, 'H-NS': 1, 'tra': 1, 'Lsr2': 1, 'virF': 1, 'virB': 1, 'SPI2': 1, 'tet(X4': 2, 'lrp': 1}
+CRP positive {'gat': 1, 'TF': 1, 'marRAB': 1, 'aroX': 5, 'npsA': 1, 'mqsRA': 1}
+CRP negative {}
+MexT positive {'MexEF-OprN': 2, 'mexEF-oprN': 2, 'mexEF-OprN': 1, 'mexS': 1}
+MexT negative {'mexAB-oprM': 1, 'OprD': 1}
+MvaT positive {'cupA': 1, 'oprD': 1, 'mexEF-oprN': 1, 'RsmZ': 1}
+MvaT negative {'mexEF-oprN': 1}
+MexS positive {'MexEF-OprN': 1, 'mexEF-oprN': 2, 'oprD': 1}
+MexS negative {'mexEF-oprN': 1, 'mexEF-orN': 1}
+PmrB positive {'PmrA': 2, 'pbgP': 2, 'pmrC': 1}
+PmrB negative {}
+MexZ positive {'mexXY': 4}
+MexZ negative {'mexXY': 4, 'MexXY': 3}
+mecA positive {'mecA': 1, 'PBP2A': 1}
+mecA negative {'PBP2A': 1}
+ramA positive {'acrAB': 2, 'acrEF': 1, 'tolC': 1}
+ramA negative {}
+mecI positive {'mecA': 1, 'MecA': 1}
+mecI negative {'mecA': 1}
+mexR positive {'mexAB': 1}
+mexR negative {'mexAB-oprM': 1}
+mecR1 positive {'mecA': 6, 'MecA': 1}
+mecR1 negative {}
+ParR positive {'arn': 1, 'MexS': 1}
+ParR negative {}
+mexS positive {}
+mexS negative {'MexT': 1, 'mexEF-oprN': 1}
+QnrB positive {'DnaA': 3, 'oriC': 1}
+QnrB negative {}
+tetR positive {'tetA(G)': 1}
+tetR negative {'murA': 1}
+LmrA positive {}
+LmrA negative {'LmrC': 1, 'lmrC': 3}
+adeN positive {'adeFGH': 1, 'adeIJK': 1}
+adeN negative {}
+cat positive {'acetyltransferase': 1}
+cat negative {'sly': 1}
+MexR positive {}
+MexR negative {'mexA': 1, 'oprM': 1}
+PvrR positive {}
+PvrR negative {'cupD': 3}
+BacA positive {'l-anticapsin': 1}
+BacA negative {}
+rsmA positive {'2,4-DAPG': 1}
+rsmA negative {}
+mexZ positive {'MexXY': 2}
+mexZ negative {}
+amrB positive {}
+amrB negative {'amrB': 1}
+cmeB positive {}
+cmeB negative {'CmeB': 1}
+vanS positive {}
+vanS negative {'vanA': 1}
+AcrB positive {'ramA': 1}
+AcrB negative {}
+ParS positive {'MexS': 1}
+ParS negative {}
+MCR-3 positive {}
+MCR-3 negative {'MCR-3': 1}
+nalC positive {}
+nalC negative {'nalC': 1}
+FomA positive {'fosfomycin': 1}
+FomA negative {}
+mgrA positive {'tet38': 1}
+mgrA negative {}
+tet(L) positive {'tet(L)': 1}
+tet(L) negative {}
+mexY positive {}
+mexY negative {'MexY': 1}
+marA positive {'ompF': 1}
+marA negative {}
+AcrS positive {}
+AcrS negative {'acrAB': 1}
+adeR positive {'adeABC': 1}
+adeR negative {}
+adeS positive {'adeABC': 1}
+adeS negative {}
+mepR positive {'mepA': 1}
+mepR negative {}
+marR positive {}
+marR negative {'arsV': 1}
+nfxB positive {}
+nfxB negative {'mexC': 1}

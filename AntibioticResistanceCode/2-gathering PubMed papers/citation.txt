@@ -1,0 +1,4 @@
+https://pubmed.ncbi.nlm.nih.gov/
+
+https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PubMed/
+Comeau DC, Wei CH, Dogan RI, and Lu Z. PMC text mining subset in BioC: about 3 million full text articles and growing, Bioinformatics, 2019

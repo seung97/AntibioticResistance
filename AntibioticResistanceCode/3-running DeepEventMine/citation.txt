@@ -1,0 +1,4 @@
+https://github.com/aistairc/DeepEventMine
+
+https://brat.nlplab.org/
+https://github.com/nlplab/brat/releases/tag/v1.3_Crunchy_Frog
