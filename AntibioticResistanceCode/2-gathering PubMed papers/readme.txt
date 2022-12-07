@@ -1,6 +1,7 @@
 copy the genes folder from 1-gathering genes
 
 make directories: id, pmidAbstract
+set the value for fileNums in 1-gather PMID PMC abstract.py
 run 1-gather PMID PMC abstract.py
 this gathers PMID, PMC, and abstracts from PubMed
 
@@ -9,6 +10,7 @@ run 2-prepare PMC.py
 this prepares the PMCs for the next step
 
 make directory: pmcFull
+set the value for fileNums in 3-gather full paper.py
 run 3-gather full paper.py
 this gathers the full papers from PubMed
 
@@ -32,3 +34,5 @@ this removes the excess abstracts
 
 run 9-check genes with results.py
 this checks which genes had search results
+
+*there are some hard coded parameters that might need to be changed depending on the data gathered
